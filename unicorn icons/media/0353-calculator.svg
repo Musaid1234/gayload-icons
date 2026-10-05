@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="calculator" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="85.882" y="53.5" width="228.237" height="298" rx="14.081" ry="14.081" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="115.132" y="151.693" width="41.025" height="41.025" rx="10" ry="10" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="179.487" y="151.693" width="41.025" height="41.025" rx="10" ry="10" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="243.843" y="151.693" width="41.025" height="41.025" rx="10" ry="10" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="115.132" y="216.244" width="41.025" height="41.025" rx="10" ry="10" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="179.487" y="216.244" width="41.025" height="41.025" rx="10" ry="10" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="115.132" y="280.794" width="41.025" height="41.025" rx="10" ry="10" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="179.487" y="280.794" width="41.025" height="41.025" rx="10" ry="10" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="243.843" y="216.244" width="41.025" height="105.576" rx="10" ry="10" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="267.913" y1="101.66" x2="259.13" y2="101.66" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="238.913" y1="101.66" x2="230.13" y2="101.66" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="209.913" y1="101.66" x2="201.13" y2="101.66" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="110.094" y="79.038" width="179.811" height="45.245" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

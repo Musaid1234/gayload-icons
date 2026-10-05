@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="burger" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M349.77,303.779c.15.72.23,1.47.23,2.23v7.4c0,17.74-14.38,32.13-32.12,32.13H82.12c-17.74,0-32.12-14.39-32.12-32.13v-7.4c0-.76.08-1.51.23-2.23" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M350,289.509v12.29c0,.68-.08,1.35-.23,1.98-1.2,5.33-7.19,8.7-12.86,6.73-13.05-4.55-17.25-15.18-36.91-15.18-24.99,0-24.99,17.2-49.99,17.2s-25-17.2-50-17.2-25,17.2-50,17.2-25-17.2-50.01-17.2c-19.66,0-23.86,10.63-36.91,15.18-5.67,1.97-11.66-1.4-12.86-6.73-.15-.63-.23-1.3-.23-1.98v-12.29c0-12.52,10.68-22.67,23.85-22.67h252.3c13.17,0,23.85,10.15,23.85,22.67Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M350,241.499c0,7-2.84,13.33-7.42,17.92-4.59,4.58-10.92,7.42-17.92,7.42H75.34c-13.99,0-25.34-11.35-25.34-25.34,0-7,2.84-13.34,7.42-17.92,3.65-3.65,8.41-6.19,13.73-7.07h92.41c4.76,0,9.41,1.41,13.37,4.05l40.59,27.07c8.1,5.4,18.65,5.4,26.74,0l40.6-27.07c3.96-2.64,8.61-4.05,13.37-4.05h30.62c12,1.99,21.15,12.42,21.15,24.99Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M350,204.809c-.12,6.56-5.75,11.7-12.32,11.7h-39.45c-4.76,0-9.41,1.41-13.37,4.05l-40.6,27.07c-8.09,5.4-18.64,5.4-26.74,0l-40.59-27.07c-3.96-2.64-8.61-4.05-13.37-4.05H61.92c-6.66,0-12.04-5.46-11.92-12.15.12-6.56,5.75-11.7,12.32-11.7h275.76c6.66,0,12.04,5.46,11.92,12.15Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M329.631,192.65c10.873,0,19.315-9.579,17.842-20.352-9.923-72.58-72.168-118.5-147.473-118.5S62.451,99.717,52.527,172.298c-1.473,10.773,6.969,20.352,17.842,20.352h259.261Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <line x1="163.301" y1="83.185" x2="155.186" y2="90.415" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="242.947" y1="85.918" x2="248.792" y2="94.911" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="154.581" y1="143.855" x2="163.906" y2="149.617" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="195.375" y1="107.974" x2="201.22" y2="116.967" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="111.617" y1="112.47" x2="117.462" y2="121.463" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="288.383" y1="114.133" x2="281.152" y2="122.166" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="249.927" y1="146.736" x2="241.812" y2="153.965" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

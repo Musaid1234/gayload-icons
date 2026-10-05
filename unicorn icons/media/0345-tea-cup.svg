@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="cup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M294.37,129.197h32.728c15.41,0,27.902,12.492,27.902,27.902v44.662c0,15.41-12.492,27.902-27.902,27.902h-49.611" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M53.226,112.543c-4.543,0-8.226,3.683-8.226,8.226v34.363c0,54.658,25.428,105.841,65.315,127.886,5.379,2.973,11.462,4.438,17.608,4.438h83.525c6.146,0,12.229-1.465,17.608-4.438,39.887-22.046,65.315-73.228,65.315-127.886v-34.363c0-4.543-3.683-8.226-8.226-8.226H53.226Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="218.153" y1="112.543" x2="218.153" y2="171.788" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="195.194" y="171.788" width="45.918" height="50.926" rx="10.945" ry="10.945" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

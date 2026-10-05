@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g>
+    <path d="M237.89,313.21H59.33c-10.55,0-19.1-8.55-19.1-19.1V90.92c0-10.55,8.55-19.1,19.1-19.1h232.88c10.55,0,19.1,8.55,19.1,19.1v107.91" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="40.231" y1="126.795" x2="311.307" y2="126.795" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="102.932" y1="54.3" x2="102.932" y2="89.344" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="248.606" y1="54.3" x2="248.606" y2="89.344" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <path d="M359.746,241.299c-.721-22.632-18.853-41.289-41.459-42.607-21.939-1.279-40.645,13.485-45.518,33.648-4.873-20.163-23.579-34.927-45.518-33.648-22.605,1.318-40.737,19.975-41.459,42.607-.387,12.154,4.149,23.243,11.757,31.442l70.97,71.195c2.345,2.352,6.154,2.352,8.499,0l70.97-71.195c7.608-8.198,12.145-19.287,11.757-31.442Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

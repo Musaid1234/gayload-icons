@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="gate">
+    <line x1="89.087" y1="211.667" x2="316.217" y2="211.667" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="316.217" y1="340" x2="89.087" y2="340" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="warehouse">
+    <path d="M56.739,143.522h291.826v187.478c0,4.967-4.033,9-9,9H65.739c-4.967,0-9-4.033-9-9v-187.478h0Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M99.087,179.87h207.13c5.519,0,10,4.481,10,10v150.13H89.087v-150.13c0-5.519,4.481-10,10-10Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M357,143.522H43c-1.657,0-3-1.343-3-3v-10.168c0-1.124.628-2.154,1.628-2.668L191.212,55.91c5.515-2.836,12.06-2.836,17.576,0l149.584,71.776c1,.514,1.628,1.544,1.628,2.668v10.168c0,1.657-1.343,3-3,3Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="box1">
+    <g>
+      <g>
+        <rect x="163.746" y="283.065" width="15.574" height="21.375" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <rect x="143.065" y="283.065" width="56.935" height="56.935" rx="8.305" ry="8.305" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g>
+        <rect x="220.68" y="283.065" width="15.574" height="21.375" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <rect x="200" y="283.065" width="56.935" height="56.935" rx="8.305" ry="8.305" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g>
+        <rect x="192.213" y="226.13" width="15.574" height="21.375" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <rect x="171.533" y="226.13" width="56.935" height="56.935" rx="8.305" ry="8.305" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="milk">
+    <g>
+      <polyline points="256.28 104.12 278.9 107 272.81 154.85 263.3 161.35 244.18 150.81" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="208.58 96.79 232.94 67.38 304.19 76.45 278.9 107 256.28 104.12" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="304.19 76.45 321.03 112.36 315.8 153.44" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M304.192,76.449l-71.255-9.071,1.381-10.846c.343-2.691,2.801-4.594,5.492-4.252l61.511,7.83c2.691.343,4.594,2.801,4.252,5.492l-1.381,10.846Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="leaf">
+    <g>
+      <path d="M191.7,106.69l.01-.01c.74-1.41,1.69-2.74,2.84-3.96,3.78-4.03,8.91-6.02,14.03-5.93,2.25.03,4.51.48,6.65,1.33,1.48-4.48,4.47-8.49,8.78-11.2,9.85-6.2,22.85-3.24,29.05,6.61,2.08,3.3,3.12,6.96,3.22,10.59.21,7.21-3.29,14.34-9.84,18.45-.04.03-.08.05-.13.08.92.94,1.76,1.99,2.49,3.15,5.25,8.34,3.13,19.22-4.62,25.01" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="235.63 103.88 214.44 131.85 201.08 149.49 200 150.91 198.11 153.41" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="234.71 136.267 214.451 131.874 206.549 113.936" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="215.108 154.351 200.111 151.099 192.954 138.45" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="bread">
+    <g>
+      <path d="M90.47,150.05l-14.31-62.85c-4.19-18.39,7.16-36.74,25.49-41.21,2.75-.67,5.5-.99,8.2-.99,15.36,0,29.36,10.33,33.39,25.84l13.13,50.46" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M91.688,88.841s8.926.853,19.961-1.837c10.66-2.6,17.818-7.375,17.818-7.375" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M97.965,114.582s8.926.853,19.961-1.837c10.66-2.6,17.818-7.375,17.818-7.375" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M104.242,140.323s8.926.853,19.961-1.837c10.66-2.6,17.818-7.375,17.818-7.375" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="carrot">
+    <g>
+      <path d="M154.02,157.1l2.35-35.8,1.98-30.26c.68-10.3,9.9-17.9,20.14-16.6.01,0,.03,0,.04.01,9.07,1.16,15.61,8.91,15.61,17.73,0,1.11-.1,2.24-.32,3.37l-10.21,53.74" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="169.915 63.315 178.532 74.446 189.558 65.91" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="170.476" y1="95.832" x2="180.879" y2="97.156" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="paper_bag" data-name="paper bag">
+    <path d="M263.301,161.351l20.468-14,20.47,14,20.47-14v182.649c0,13.807-11.193,25-25,25h-106.755" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M263.301,161.351l-25.393-14-25.393,14-25.393-14-25.39,14-25.389-14-25.386,14-25.391-14v182.649c0,13.807,11.193,25,25,25h127.734c13.807,0,25-11.193,25-25v-168.649" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

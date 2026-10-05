@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="cloud" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="245.319" y1="285.289" x2="256.214" y2="312.924" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="105.408" y1="285.289" x2="116.303" y2="312.924" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="175.363" y1="285.289" x2="186.258" y2="312.924" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="152.833" y1="320.625" x2="163.728" y2="348.259" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="222.789" y1="320.625" x2="233.684" y2="348.259" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="336.948" y1="181.845" x2="347.843" y2="209.479" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="314.417" y1="217.18" x2="325.312" y2="244.814" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M137.02,125.6c-.05-.84-.07-1.67-.07-2.52,0-24.76,20.07-44.83,44.83-44.83,3.92,0,7.71.5,11.33,1.44,7.01-23.84,29.05-41.26,55.17-41.26,31.02,0,56.28,24.57,57.45,55.3,3.57-1.11,7.38-1.72,11.32-1.72,20.96,0,37.95,16.99,37.95,37.95s-16.99,37.95-37.95,37.95h-44" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M251.407,163.345c-4.663,0-9.185.601-13.497,1.723-8.357-28.414-34.615-49.165-65.735-49.165-36.964,0-67.076,29.271-68.46,65.896-4.262-1.331-8.795-2.049-13.495-2.049-24.974,0-45.22,20.246-45.22,45.22s20.246,45.22,45.22,45.22h161.187c29.504,0,53.422-23.918,53.422-53.423s-23.918-53.422-53.422-53.422Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

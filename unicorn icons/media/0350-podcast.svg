@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="podcast" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M152.89,319.14c-53.68-19.3-92.06-70.67-92.06-130.99,0-76.86,62.31-139.17,139.17-139.17s139.17,62.31,139.17,139.17c0,60.32-38.38,111.69-92.06,130.99" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M147.59,266.82c-25.39-16.95-42.11-45.86-42.11-78.67,0-52.2,42.32-94.52,94.52-94.52s94.52,42.32,94.52,94.52c0,32.81-16.72,61.72-42.11,78.67" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M214.46,351.02h-28.921c-9.397,0-17.253-7.147-18.139-16.502l-6.55-69.169c-1.013-10.693,7.398-19.938,18.139-19.938h42.02c10.741,0,19.151,9.244,18.139,19.938l-6.55,69.169c-.886,9.355-8.742,16.502-18.139,16.502Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="200" cy="188.15" r="41.037" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

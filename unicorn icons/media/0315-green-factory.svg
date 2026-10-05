@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="leaf">
+    <g>
+      <path d="M186.643,45.607c3.171.411,5.381,3.398,4.849,6.551-2.386,14.13-10.029,27.387-22.451,36.586-14.042,10.397-31.262,13.439-47.058,9.812,1.134-16.163,9.069-31.756,23.111-42.153,12.423-9.198,27.34-12.638,41.549-10.795Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M155.47,72.57c-8.91,2.86-24.32,12.27-33.1,26.06-3.83,6.01-6.4,12.86-6.6,20.37" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <path d="M58.498,59.919c-2.561.332-4.346,2.744-3.916,5.29,1.927,11.411,8.099,22.118,18.132,29.547,11.34,8.397,25.247,10.853,38.004,7.924-.916-13.053-7.324-25.646-18.665-34.043-10.033-7.428-22.08-10.207-33.555-8.718Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M83.67,81.7c7.2,2.31,19.65,9.9,26.74,21.05,3.06,4.8,5.11,10.26,5.32,16.25" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="buiding">
+    <path d="M151.52,225.56l40.57-26.79c3.33-2.2,7.76.19,7.76,4.17v30.21c0,3.19,3.54,5.1,6.2,3.34l57.12-37.72c3.32-2.2,7.75.19,7.75,4.17v30.21c0,3.19,3.55,5.1,6.21,3.34l57.11-37.72c3.32-2.2,7.75.19,7.75,4.17v148.51c0,2.65-2.14,4.79-4.78,4.79h-187" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="260.552" y="274.942" width="42.649" height="24.135" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="184.351" y="274.942" width="42.649" height="24.135" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="line">
+    <line x1="82.035" y1="151.5" x2="148.448" y2="151.5" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="tower">
+    <path d="M150.208,356.239h-69.932c-3.669,0-6.6-3.055-6.448-6.721l9.299-224.337c.143-3.457,2.988-6.186,6.448-6.186h51.335c3.46,0,6.305,2.729,6.448,6.186l9.299,224.337c.152,3.666-2.779,6.721-6.448,6.721Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

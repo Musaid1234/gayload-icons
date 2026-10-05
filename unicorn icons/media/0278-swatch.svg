@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="palette" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M338.04,238.41l-153.21,87.96v-6.78l124.81-148.25c4.05.63,7.77,3.02,9.96,6.85l23.61,41.11c3.85,6.71,1.53,15.26-5.17,19.11Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M314.02,166.14l-129.19,153.45v-4.84l75.97-208.18c2.87.19,5.7,1.27,8.07,3.26l43.45,36.58c5.92,4.98,6.68,13.81,1.7,19.73Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M261.43,104.85l-.63,1.72-75.97,208.18V64.3c2.5-.55,5.18-.41,7.76.53l60.48,22.07c7.27,2.65,11.01,10.69,8.36,17.95Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="85.435" y="50" width="99.391" height="300" rx="14" ry="14" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="135.13" cy="313.022" r="11.054" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="107.609" y="71.75" width="55.043" height="51.805" rx="3" ry="3" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="107.609" y="147.95" width="55.043" height="51.805" rx="3" ry="3" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="107.609" y="224.151" width="55.043" height="51.805" rx="3" ry="3" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="stick">
+    <g>
+      <path d="M139.81,120.85c-6.91.42-13.5,2-19.6,4.54l-41-79.29c-1.72-3.32-.42-7.41,2.9-9.13l9.41-4.86c3.32-1.72,7.41-.42,9.13,2.91l38.62,74.69c-.04.87-.06,1.75-.06,2.63,0,2.89.2,5.73.6,8.51Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <g>
+        <line x1="82.173" y1="51.839" x2="114.868" y2="62.245" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="99.635" y1="85.605" x2="132.077" y2="95.523" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="116.844" y1="118.883" x2="128.548" y2="122.608" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+    </g>
+  </g>
+  <g id="scoop3">
+    <path d="M139.81,120.85c-.4-2.78-.6-5.62-.6-8.51,0-33.58,27.22-60.79,60.79-60.79s60.79,27.21,60.79,60.79c0,2.89-.2,5.73-.6,8.51" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="sprinkle">
+    <line x1="231.523" y1="90.898" x2="226.028" y2="95.793" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="172.84" y1="90.301" x2="176.797" y2="96.39" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="198.021" y1="106.247" x2="201.979" y2="112.336" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="207.104" y1="72.035" x2="201.609" y2="76.93" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="scoop2">
+    <path d="M83.73,192.27c-.62-3.49-.95-7.09-.95-10.76,0-32.31,25.21-58.72,57.03-60.66,1.24-.08,2.5-.12,3.76-.12,25.57,0,47.46,15.79,56.43,38.15" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="132.981" y1="138.386" x2="139.23" y2="142.248" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="114.885" y1="159.553" x2="118.802" y2="165.58" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="165.365" y1="151.464" x2="160.52" y2="156.847" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="scoop1">
+    <path d="M196.6,192.27c-.63-3.49-.96-7.09-.96-10.76,0-2.89.2-5.73.6-8.51.68-4.92,1.96-9.65,3.76-14.12,8.97-22.36,30.86-38.15,56.43-38.15,1.26,0,2.52.04,3.76.12,31.82,1.94,57.03,28.35,57.03,60.66,0,3.67-.33,7.27-.95,10.76" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="257.969" y1="136.746" x2="253.101" y2="142.248" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="230.373" y1="150.301" x2="234.29" y2="156.328" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="281.459" y1="148.952" x2="284.527" y2="155.512" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="cup">
+    <path d="M336.07,208.53c0,4.49-1.82,8.55-4.76,11.49-2.94,2.94-7.01,4.76-11.49,4.76H80.18c-8.97,0-16.25-7.28-16.25-16.25,0-4.49,1.82-8.55,4.76-11.5,2.94-2.94,7.01-4.76,11.49-4.76h239.64c8.97,0,16.25,7.28,16.25,16.26Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M278.903,351.549H121.097c-12.341,0-22.852-8.968-24.794-21.155l-16.836-105.615h241.067l-16.836,105.615c-1.943,12.187-12.454,21.155-24.794,21.155Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

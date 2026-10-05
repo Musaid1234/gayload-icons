@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="circle">
+    <circle cx="200" cy="200" r="23" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="circle2">
+    <circle cx="200" cy="200" r="150" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="top_l" data-name="top l">
+    <path d="M179.14,163.88c-12.46,7.21-20.84,20.69-20.84,36.12h-85.8c0-47.19,25.63-88.39,63.74-110.43l42.9,74.31Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="top_r" data-name="top r">
+    <path d="M327.5,200h-85.8c0-15.43-8.38-28.91-20.84-36.12l42.9-74.31c38.11,22.04,63.74,63.24,63.74,110.43Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="bottom">
+    <path d="M263.76,310.43c-18.75,10.86-40.53,17.07-63.76,17.07s-45.01-6.21-63.76-17.07l42.9-74.31c6.14,3.55,13.26,5.58,20.86,5.58s14.72-2.03,20.86-5.58l42.9,74.31Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

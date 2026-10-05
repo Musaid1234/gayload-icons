@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="towers">
+    <line x1="263.533" y1="136.988" x2="336.034" y2="136.988" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="151.952" y1="136.988" x2="224.453" y2="136.988" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M148.35,223.83l4.79-115.57c.16-3.78,3.26-6.76,7.04-6.76h56.04c3.78,0,6.89,2.98,7.04,6.76l4.73,114.21" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M260.89,200.75l3.83-92.49c.16-3.78,3.27-6.76,7.04-6.76h56.04c3.78,0,6.89,2.98,7.04,6.76l10.15,244.9c.17,4-3.03,7.34-7.04,7.34h-55.41" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="smoke">
+    <path d="M167.861,82.723s5.08-21.547,31.182-29.131" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M279.861,84.723s11.328-25.65,47.066-27.927" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M329.029,81.672s10.428-5.793,27.328-4.029c20.146,2.102,28.38-8.759,31.708-13.839" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M220.241,76.839s10.369-10.038,26.453-11.285c22.599-1.752,28.38-18.394,28.38-26.978" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="building">
+    <path d="M210.174,226.478v-34.188c0-3.984-4.432-6.368-7.756-4.172l-63.352,41.845c-2.777,1.834-6.479-.157-6.479-3.485v-34.188c0-3.984-4.432-6.368-7.756-4.172l-64.201,42.406c-3.515,2.322-5.63,6.253-5.63,10.466v114.279c0,2.886,2.34,5.226,5.226,5.226h222.309c2.886,0,5.226-2.34,5.226-5.226v-162.979c0-3.984-4.432-6.368-7.756-4.172l-63.352,41.845c-2.777,1.834-6.479-.157-6.479-3.485Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="window">
+    <rect x="89.962" y="271.745" width="37.707" height="26.347" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="152.688" y="271.745" width="37.707" height="26.347" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="215.091" y="271.745" width="37.707" height="26.347" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

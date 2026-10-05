@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_2" data-name="2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M300.099,200c0-69.912-56.675-126.587-126.587-126.587-69.912,0-126.587,56.675-126.587,126.587,0,69.912,56.675,126.587,126.587,126.587" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M288.239,146.502c-29.546-63.362-104.863-90.775-168.225-61.229-63.362,29.546-90.775,104.863-61.229,168.225,29.546,63.362,104.863,90.775,168.225,61.229" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <polyline points="173.497 114.608 173.497 200 107.039 200" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="331.839" y1="222.991" x2="311.055" y2="222.991" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="342.736" y1="253.565" x2="311.055" y2="253.565" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="353.105" y1="284.14" x2="311.055" y2="284.14" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M250.926,222.991v19.904c0,5.841,4.735,10.576,10.576,10.576h27.652v-30.48" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="289.154" y1="253.47" x2="289.154" y2="284.14" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M226.987,284.14h-24.676c-6.322,0-11.447-5.125-11.447-11.447v-7.682c0-6.321,5.124-11.446,11.446-11.446h15.336c6.321,0,11.446-5.124,11.446-11.446v-7.683c0-6.321-5.124-11.446-11.446-11.446h-24.667" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

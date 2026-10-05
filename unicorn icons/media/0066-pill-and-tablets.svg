@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 400 400">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-width: 12px;
+      }
+
+      .st0, .st1, .st2 {
+        stroke: #191919;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .st0, .st1, .st3 {
+        stroke-linejoin: round;
+      }
+
+      .st1, .st2, .st3 {
+        stroke-width: 12px;
+      }
+
+      .st4 {
+        fill: #191919;
+      }
+
+      .st3 {
+        stroke: #4f46e5;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+    <path class="st4" d="M148.3,1173.6"/>
+  </g>
+  <path class="st1" d="M220.1,222.5l-79.9-63.9,61.2-76.5c25.2-31.5,71.2-36.7,102.7-11.4,31.5,25.2,36.7,71.2,11.5,102.7l-26.8,33.6"/>
+  <path class="st3" d="M204.1,312.7l-10.9,13.7c-25.2,31.5-71.2,36.7-102.7,11.5-18.1-14.4-27.5-35.7-27.5-57.1s5.2-32.1,16-45.6l61.2-76.5,79.9,63.9"/>
+  <path class="st0" d="M341.7,269.9c4.2,40.3-25,76.5-65.4,80.7-40.3,4.2-76.5-25-80.7-65.4s25-76.5,65.4-80.7c40.3-4.2,76.5,25,80.7,65.4Z"/>
+  <path class="st0" d="M314.9,220.5l-92.4,114.1"/>
+  <path class="st2" d="M224.1,91.5s17.3-22.9,53.6-10"/>
+</svg>

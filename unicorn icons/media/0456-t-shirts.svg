@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="hanger1">
+    <path d="M144.945,84.244c0-10.786,9.337-19.39,20.369-18.172" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="hanger2">
+    <path d="M219.554,84.244c0-10.786,9.337-19.39,20.369-18.172" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="tshirt_p" data-name="tshirt p">
+    <path d="M142.46,153.56c9.02-7.57,19.92-12.69,31.64-14.77l19.91-3.52" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M200.66,134.09l6.33-1.12-.04.14.08-.14c.02,0,.04.02.04.04" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M258.86,153.56c5.71-5.13,9.46-12.4,9.99-20.55.01-.02.02-.04.04-.04l.08.14-.03-.14,32.89,5.82c15.27,2.71,29.15,10.58,39.3,22.31l33.41,38.6-42.18,39-23.1-24.67-.05.76v110.34h-74.61" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="hanger2-2" data-name="hanger2">
+    <polyline points="206.99 132.972 237.841 121.821 268.854 133.007" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M239.923,66.072c8.385.926,15.164,7.705,16.09,16.09.816,7.386-2.771,14.012-8.468,17.585-5.933,3.721-9.704,10.07-9.704,17.073v5.001" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="hanger1-2" data-name="hanger1">
+    <polyline points="132.381 132.972 163.232 121.821 194.245 133.007" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M165.314,66.072c8.385.926,15.164,7.705,16.09,16.09.816,7.386-2.771,14.012-8.468,17.585-5.933,3.721-9.704,10.07-9.704,17.073v5.001" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="tshirt_b" data-name="tshirt b">
+    <path d="M266.52,161.099c-10.15-11.726-24.027-19.603-39.298-22.306l-32.892-5.822.036.141-.08-.141c-.021-.001-.038.014-.039.035-1.031,15.82-14.188,28.347-30.28,28.347h-1.22c-16.092,0-29.25-12.527-30.28-28.347-.001-.02-.019-.036-.039-.035l-.08.141.036-.141-32.892,5.822c-15.272,2.703-29.148,10.579-39.298,22.306l-33.408,38.596h0s42.177,39.008,42.177,39.008l23.097-24.676.052.76v110.342s0,0,0,0h142.492s0,0,0,0v-110.342l.052-.76,23.098,24.676,42.177-39.008h0s-33.408-38.596-33.408-38.596Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

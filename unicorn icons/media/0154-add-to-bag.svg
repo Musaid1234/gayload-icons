@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="bag">
+    <g>
+      <path d="M246.954,343.682h-121.931c-15.196,0-27.726-11.898-28.518-27.075l-10.545-217.579h228.024l-7.558,156.042" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M160.669,119.413v-37.147c0-21.706,17.597-39.303,39.303-39.303h0c21.706,0,39.303,17.597,39.303,39.303v37.147" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="circle">
+    <circle cx="283.532" cy="303.975" r="53.988" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="plus">
+    <g>
+      <line x1="283.532" y1="275.859" x2="283.532" y2="332.092" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="311.648" y1="303.975" x2="255.415" y2="303.975" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

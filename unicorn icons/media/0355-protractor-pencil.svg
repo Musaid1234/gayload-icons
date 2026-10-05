@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="pencil">
+    <g>
+      <line x1="253.12" y1="249.462" x2="285.206" y2="249.462" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M285.21,233.96v47.5h-32.09v-47.5c0-8.86,7.18-16.04,16.04-16.04,4.43,0,8.44,1.8,11.35,4.7,2.9,2.9,4.7,6.91,4.7,11.34Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <rect x="253.12" y="305.43" width="32.09" height="21.86" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="253.12 327.294 269.163 360 285.206 327.294" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="leg_R">
+    <path d="M296.59,287.55v11.79c0,3.36-2.72,6.09-6.09,6.09h-51.41c-8.61.27-12.94-3.91-14.52-10.1l-38.73-152.35c8.41-.49,15.94-4.23,21.35-10l37.75,148.48h45.56c3.37,0,6.09,2.72,6.09,6.09Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="leg_L">
+    <g>
+      <line x1="117.133" y1="337.894" x2="111.719" y2="360" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M178.73,142.61l-47.52,186.92c-1.58,6.19-7.88,9.94-14.08,8.36-6.19-1.57-9.94-7.87-8.36-14.07l49.32-193.97c4.83,6.66,12.17,11.38,20.64,12.76Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="top">
+    <path d="M168.843,82.725v-27.625c0-8.34,6.761-15.1,15.1-15.1h0c8.34,0,15.1,6.761,15.1,15.1v27.625" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <circle cx="183.943" cy="111.097" r="31.941" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <circle cx="183.943" cy="111.097" r="10.631" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

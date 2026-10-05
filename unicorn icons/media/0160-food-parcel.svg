@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="bag_base" data-name="bag base">
+    <path d="M301.56,88.366l53.721,243.385c2.078,9.366-5.05,18.249-14.644,18.249h-119.44" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M352.861,343.693l-35.608-34.713c-8.731-8.511-22.655-8.511-31.385,0l-42.078,41.021" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="spoon_fork" data-name="spoon fork">
+    <g>
+      <g>
+        <path d="M171.893,151.841l-5.65,31.215c-1.402,7.745-8.145,13.378-16.017,13.378h-11.352c-8.351,0-14.699-7.504-13.315-15.739l5.114-30.44" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <polyline points="151.085 150.822 142.859 199.785 126.736 295.746" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g>
+        <ellipse cx="208.243" cy="178.749" rx="27.285" ry="20.488" transform="translate(-2.54 354.496) rotate(-80.462)" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="203.722" y1="205.657" x2="188.586" y2="295.746" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+    </g>
+  </g>
+  <g id="bag_top" data-name="bag top">
+    <path d="M301.56,88.366v-27.815c0-4.676-5.016-7.637-9.11-5.379l-13.31,7.34c-1.846,1.018-4.086,1.018-5.933,0l-19.46-10.729c-1.846-1.018-4.086-1.018-5.932,0l-19.461,10.729c-1.846,1.018-4.086,1.018-5.932,0l-19.46-10.729c-1.846-1.018-4.086-1.018-5.932,0l-19.457,10.729c-1.847,1.018-4.086,1.018-5.933,0l-19.456-10.728c-1.847-1.018-4.086-1.018-5.933,0l-19.453,10.728c-1.847,1.018-4.086,1.018-5.933,0l-13.315-7.341c-4.094-2.258-9.11.704-9.11,5.38v27.816l-53.744,243.4c-2.067,9.362,5.059,18.234,14.647,18.234h168.382c9.384,0,17.506-6.524,19.53-15.688l54.307-245.946Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="square">
+    <rect x="50" y="50" width="300" height="300" rx="15" ry="15" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="plus">
+    <g>
+      <line x1="135" y1="93.733" x2="135" y2="176.267" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="176.267" y1="135" x2="93.733" y2="135" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="multiply">
+    <g>
+      <line x1="298.652" y1="231.348" x2="231.348" y2="298.652" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="298.652" y1="298.652" x2="231.348" y2="231.348" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="minus">
+    <line x1="306.267" y1="135" x2="223.733" y2="135" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="divide">
+    <g>
+      <line x1="176.267" y1="265" x2="93.733" y2="265" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <circle cx="135" cy="235.82" r="10.242" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <circle cx="135" cy="294.18" r="10.242" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

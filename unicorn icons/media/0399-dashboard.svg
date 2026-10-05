@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="dashboard" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="200" y1="139.793" x2="200" y2="155.398" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="323" y1="250.346" x2="307.484" y2="250.346" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="305.406" y1="198.752" x2="292.109" y2="206.919" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="261.132" y1="155.954" x2="253.42" y2="169.52" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <line x1="74.058" y1="250.346" x2="89.574" y2="250.346" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="91.652" y1="198.752" x2="104.948" y2="206.919" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="135.926" y1="155.954" x2="143.638" y2="169.52" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <circle cx="200" cy="250.346" r="13.323" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="208.737" y1="240.289" x2="253.42" y2="195.606" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M350,263.125c0-82.843-67.157-150-150-150S50,180.283,50,263.125v23.749h300v-23.749Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

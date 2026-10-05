@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="dot_line" data-name="dot line">
+    <g>
+      <g>
+        <line x1="101.104" y1="321.348" x2="136.729" y2="321.348" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="270.24" y1="321.35" x2="268.81" y2="321.35" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="248.76" y1="321.35" x2="234.62" y2="321.35" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="167.862" y1="321.348" x2="203.486" y2="321.348" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g>
+        <line x1="101.104" y1="50" x2="136.729" y2="50" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="234.619" y1="50" x2="270.244" y2="50" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="167.862" y1="50" x2="203.486" y2="50" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g>
+        <line x1="50" y1="101.104" x2="50" y2="136.729" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="50" y1="234.619" x2="50" y2="270.244" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="50" y1="167.862" x2="50" y2="203.486" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g>
+        <line x1="321.348" y1="101.104" x2="321.348" y2="136.729" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="321.35" y1="270.24" x2="321.35" y2="268.81" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="321.35" y1="248.76" x2="321.35" y2="234.62" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="321.348" y1="167.862" x2="321.348" y2="203.486" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <path d="M50,70.803v-7.236c0-7.493,6.074-13.567,13.567-13.567h7.236" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M70.803,321.348h-7.236c-7.493,0-13.567-6.074-13.567-13.567v-7.236" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M300.544,50h7.236c7.493,0,13.567,6.074,13.567,13.567v7.236" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M321.348,300.544v7.236c0,7.493-6.074,13.567-13.567,13.567h-7.236" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="arrow">
+    <polygon points="257.353 350 217.648 217.648 350 257.353 283.824 283.824 257.353 350" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

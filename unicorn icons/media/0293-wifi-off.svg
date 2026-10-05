@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="wifi1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M149.119,250.327c10.857-16.58,29.605-27.513,50.881-27.513,10.713,0,20.784,2.772,29.531,7.64" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M100.35,199.59c23.78-28.54,59.59-46.72,99.65-46.72,30.03,0,57.67,10.21,79.64,27.35" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M50,149.44c36.83-41.184,90.392-67.1,150-67.1s113.17,25.916,150,67.1" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="200" cy="302.14" r="15.52" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="313.136" y1="214.255" x2="263.579" y2="263.812" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="313.136" y1="263.812" x2="263.579" y2="214.255" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="288.358" cy="239.034" r="59.442" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

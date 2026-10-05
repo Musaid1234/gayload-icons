@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M318.869,187.242c1.81,1.81,2.929,4.31,2.929,7.071v150.174c0,5.523-4.477,10-10,10H88.202c-5.523,0-10-4.477-10-10v-150.174c0-2.597,1.175-5.135,2.798-6.913" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M318.488,186.896l-109.873,85.778c-5.063,3.953-12.167,3.953-17.23,0l-109.873-85.778" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="144.89" y1="137.41" x2="81.51" y2="186.9" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="318.49" y1="186.9" x2="255.11" y2="137.41" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M287.414,89.847c0-24.485-19.849-44.334-44.334-44.334-20.884,0-38.381,14.445-43.08,33.886-4.698-19.441-22.195-33.886-43.08-33.886-24.485,0-44.334,19.849-44.334,44.334,0,11.644,4.495,22.233,11.836,30.144l75.577,64.322,75.577-64.322c7.341-7.911,11.836-18.5,11.836-30.144Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

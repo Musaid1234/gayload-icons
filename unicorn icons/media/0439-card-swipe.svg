@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="base">
+    <path d="M274.862,106.552h7.467c5.49,0,9.947,4.457,9.947,9.947v221.331c0,5.49-4.457,9.947-9.947,9.947h-7.467V106.552h0Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="body_main" data-name="body main">
+    <path d="M274.86,107.02v238.31c0,10.86-8.8,19.67-19.67,19.67H115.85c-10.86,0-19.67-8.81-19.67-19.67V107.02c0-10.86,8.81-19.67,19.67-19.67h15.74v22.02h107.87v-22.02h15.73c10.87,0,19.67,8.81,19.67,19.67Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="119.96" y="130.303" width="131.126" height="83.284" rx="10.928" ry="10.928" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="119.96" y1="341.254" x2="251.086" y2="341.254" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="119.96" y="236.786" width="28.31" height="28.31" rx="5.018" ry="5.018" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="222.776" y="236.786" width="28.31" height="28.31" rx="5.018" ry="5.018" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="171.368" y="236.786" width="28.31" height="28.31" rx="5.018" ry="5.018" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="119.96" y="287.915" width="28.31" height="28.31" rx="5.018" ry="5.018" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="222.776" y="287.915" width="28.31" height="28.31" rx="5.018" ry="5.018" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="171.368" y="287.915" width="28.31" height="28.31" rx="5.018" ry="5.018" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="bill">
+    <path d="M131.586,109.369V42.099c0-3.806,4.231-6.087,7.411-3.996l16.928,11.135c1.595,1.049,3.661,1.049,5.256,0l19.395-12.758c3-1.974,6.887-1.974,9.887,0l19.398,12.759c1.595,1.049,3.661,1.049,5.256,0l16.932-11.136c3.18-2.092,7.41.189,7.41,3.996v67.271" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="152.848" y1="70.546" x2="172.493" y2="70.546" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="204.858" y1="70.546" x2="218.198" y2="70.546" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="204.858" y1="89.659" x2="218.198" y2="89.659" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="152.848" y1="89.659" x2="182.553" y2="89.659" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="top_line" data-name="top line">
+    <line x1="119.96" y1="109.369" x2="251.086" y2="109.369" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

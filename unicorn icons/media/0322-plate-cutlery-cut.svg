@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="plate" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g>
+    <circle cx="205.037" cy="200" r="104.187" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <circle cx="205.037" cy="200" r="68.261" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g>
+    <path d="M336.476,230.528h23.524s0-139.61,0-139.61c0-1.607-1.741-2.609-3.131-1.803h0c-15.857,9.198-25.617,26.143-25.617,44.474v91.716c0,2.885,2.339,5.223,5.223,5.223Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M350.194,230.528h0c5.412,0,9.806,4.394,9.806,9.806v70.835h-19.612v-70.835c0-5.412,4.394-9.806,9.806-9.806Z" transform="translate(700.388 541.698) rotate(-180)" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <path d="M40.073,132.628l2.101-38.047c.31-4.285,3.876-7.603,8.172-7.603h1.555c4.552,0,8.242,3.69,8.242,8.242v30.241s0-30.241,0-30.241c0-4.552,3.69-8.242,8.242-8.242h1.473c4.552,0,8.242,3.69,8.242,8.242v30.241s0-30.241,0-30.241c0-4.552,3.69-8.242,8.242-8.242h1.555c4.296,0,7.862,3.318,8.172,7.602l2.101,38.047c.927,12.817-7.089,23.927-19.244,26.219,0,0,0,0,0,0v144.043c0,5.399-4.224,10.031-9.622,10.13-5.5.101-9.99-4.328-9.99-9.804v-144.368c-12.154-2.292-20.171-13.402-19.244-26.219Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

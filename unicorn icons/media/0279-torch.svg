@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="torch" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M109.305,166.464h61.33v181.927c0,10.94-8.882,19.822-19.822,19.822h-21.686c-10.94,0-19.822-8.882-19.822-19.822v-181.927h0Z" transform="translate(230.033 -20.672) rotate(45)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M311.001,169.181l-72.874-72.874c-4.673-4.673-12.249-4.673-16.922,0l-6.116,6.116c-3.159,3.159-5.499,7.043-6.814,11.314l-18.66,60.589,43.367,43.367,60.589-18.66c4.27-1.315,8.154-3.654,11.314-6.814l6.116-6.116c4.673-4.673,4.673-12.249,0-16.922Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="212.85" y1="104.959" x2="302.35" y2="194.459" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="180.687" y1="226.622" x2="154.667" y2="252.642" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="163.028" y1="244.28" x2="154.667" y2="252.642" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="304.885" y1="102.423" x2="331.359" y2="75.949" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="318.877" y1="143.044" x2="355.168" y2="133.84" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="273.468" y1="52.141" x2="264.265" y2="88.431" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="trolley" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g>
+    <path d="M197.869,178.948h37.397v46.823c0,4.073-3.307,7.38-7.38,7.38h-22.636c-4.073,0-7.38-3.307-7.38-7.38v-46.823h0Z" transform="translate(-49.246 69.298) rotate(-16.35)" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M296.91,304.87l-92.49,27.13c-3.79-12.86-17.26-20.22-30.12-16.45-.29.08-.57.17-.85.27l-27.44-93.53c-3.46-12.14,3.52-24.82,15.65-28.38l94.56-27.74c12.19-3.57,24.97,3.41,28.54,15.6l27.74,94.56c3.58,12.19-3.4,24.97-15.59,28.54Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g>
+    <path d="M152.76,80.483h28.002v33.205c0,4.073-3.307,7.38-7.38,7.38h-13.241c-4.073,0-7.38-3.307-7.38-7.38v-33.205h0Z" transform="translate(-21.625 51.02) rotate(-16.35)" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="122.168" y="79.115" width="108.229" height="108.229" rx="23" ry="23" transform="translate(-30.376 55.012) rotate(-16.35)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <polyline points="351 289 296.91 304.87 204.42 332.01" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M173.45,315.82l-27.44-93.53-41.23-140.55c-3.25-11.07-14.86-17.42-25.93-14.17l-29.85,8.76" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="181.129" cy="338.838" r="24.271" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

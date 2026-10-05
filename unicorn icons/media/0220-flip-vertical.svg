@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="flip" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M68.923,55.584l112.323,112.323c2.421,2.421,6.347,2.421,8.768,0l112.323-112.323c3.906-3.906,1.14-10.584-4.384-10.584H73.307c-5.524,0-8.29,6.678-4.384,10.584Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M66.796,344.416l112.323-112.323c2.421-2.421,6.347-2.421,8.768,0l112.323,112.323c3.906,3.906,1.14,10.584-4.384,10.584H71.18c-5.524,0-8.29-6.678-4.384-10.584Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <path d="M295.558,286.051c19.718-23.188,31.609-53.234,31.609-86.051s-11.891-62.863-31.609-86.051" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <polyline points="335.032 276.766 295.58 286.051 286.294 246.599" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g>
+    <line x1="157.917" y1="200" x2="151.955" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="186.484" y1="200" x2="180.522" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="215.05" y1="200" x2="209.089" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="243.617" y1="200" x2="237.656" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="72.216" y1="200" x2="66.255" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="100.783" y1="200" x2="94.822" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="129.35" y1="200" x2="123.389" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="272.184" y1="200" x2="266.223" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="300.751" y1="200" x2="294.789" y2="200" fill="none" stroke="#191919" stroke-dasharray="0 0 18.543 24.106" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

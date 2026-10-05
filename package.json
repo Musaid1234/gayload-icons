@@ -1,0 +1,70 @@
+{
+  "name": "gaylord-icons",
+  "version": "0.1.0",
+  "description": "Animated icon components for React and Next.",
+  "keywords": [
+    "react",
+    "next",
+    "nextjs",
+    "icons",
+    "animated-icons",
+    "icon-components",
+    "lordicon",
+    "unicorn-icons",
+    "lottie",
+    "svg",
+    "hover"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musaid1234/gayload-icons.git"
+  },
+  "homepage": "https://github.com/Musaid1234/gayload-icons#readme",
+  "bugs": {
+    "url": "https://github.com/Musaid1234/gayload-icons/issues"
+  },
+  "type": "module",
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    "./lordicon": {
+      "types": "./dist/lordicon/index.d.ts",
+      "import": "./dist/lordicon/index.js"
+    },
+    "./unicorn": {
+      "types": "./dist/unicorn/index.d.ts",
+      "import": "./dist/unicorn/index.js"
+    },
+    "./lordicon/*": {
+      "types": "./dist/lordicon/icons/*.d.ts",
+      "import": "./dist/lordicon/icons/*.js"
+    },
+    "./unicorn/*": {
+      "types": "./dist/unicorn/icons/*.d.ts",
+      "import": "./dist/unicorn/icons/*.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate": "node generate-icons.mjs",
+    "lib": "node build-lib.mjs",
+    "prepublishOnly": "node build-lib.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "dependencies": {
+    "lottie-web": "5.12.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "vite": "^6.3.5"
+  }
+}

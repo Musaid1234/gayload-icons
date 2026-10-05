@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="phone">
+    <g>
+      <rect x="113.739" y="50" width="172.522" height="300" rx="18.935" ry="18.935" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="113.739" y1="309.304" x2="286.261" y2="309.304" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <circle cx="200" cy="329.909" r="7.5" fill="#191919" stroke-width="0"/>
+      <line x1="186.272" y1="73.565" x2="213.728" y2="73.565" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="cart">
+    <g>
+      <polygon points="243.305 201.627 179.776 201.627 165.806 154.071 257.275 154.071 243.305 201.627" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M179.776,201.627l-9.823,20.799c-1.927,4.081,1.05,8.779,5.563,8.779h66.302" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <circle cx="181.107" cy="251.199" r="7.288" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <circle cx="234.989" cy="251.199" r="7.288" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M165.806,154.071l-3.447-11.77c-1.521-5.192-6.283-8.759-11.692-8.759h-11.25" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

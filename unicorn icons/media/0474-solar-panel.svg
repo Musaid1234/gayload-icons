@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="sun">
+    <path d="M243.21,132.53c0,7.9-2.12,15.31-5.84,21.68h-74.74c-3.72-6.37-5.84-13.78-5.84-21.68,0-23.86,19.35-43.21,43.21-43.21s43.21,19.35,43.21,43.21Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="rays">
+    <line x1="200" y1="45" x2="200" y2="65.119" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="287.53" y1="132.53" x2="267.411" y2="132.53" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="132.589" y1="132.53" x2="112.47" y2="132.53" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="261.893" y1="70.637" x2="247.667" y2="84.863" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="152.333" y1="84.863" x2="138.107" y2="70.637" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="panel">
+    <g>
+      <line x1="152.2" y1="291.659" x2="166.886" y2="154.211" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="233.114" y1="154.211" x2="247.8" y2="291.659" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="89.069" y1="200.027" x2="310.931" y2="200.027" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="75.608" y1="245.843" x2="324.47" y2="245.843" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M320.885,291.659H79.115c-9.238,0-15.827-8.957-13.077-17.776l34.455-110.49c1.703-5.462,6.76-9.182,12.482-9.182h174.05c5.721,0,10.778,3.72,12.482,9.182l34.455,110.49c2.75,8.819-3.839,17.776-13.077,17.776Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <g>
+        <line x1="187.724" y1="291.968" x2="177.661" y2="355" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="212.276" y1="291.968" x2="222.339" y2="355" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <line x1="163.102" y1="355" x2="236.898" y2="355" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

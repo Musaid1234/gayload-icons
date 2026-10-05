@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g>
+    <path d="M232.37,317.28H62.54c-10.55,0-19.1-8.55-19.1-19.1V94.99c0-10.55,8.55-19.1,19.1-19.1h232.88c10.55,0,19.1,8.55,19.1,19.1v145.6" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="43.444" y1="130.866" x2="314.519" y2="130.866" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="106.145" y1="58.371" x2="106.145" y2="93.415" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="251.818" y1="58.371" x2="251.818" y2="93.415" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <path d="M323.64,286.49c-1.41,1.38-2.06,3.37-1.72,5.31l7.34,42.8c.84,4.9-4.31,8.64-8.71,6.33l-38.43-20.21c-1.75-.92-3.84-.92-5.58,0l-38.44,20.21c-4.4,2.31-9.55-1.43-8.7-6.33l2.97-17.32,4.37-25.48c.33-1.94-.32-3.93-1.73-5.31l-31.09-30.31c-3.56-3.47-1.6-9.51,3.32-10.23l42.97-6.24c1.96-.29,3.65-1.52,4.52-3.29l19.22-38.93c2.2-4.46,8.56-4.46,10.76,0l19.21,38.93c.88,1.77,2.57,3,4.52,3.29l6.08.88,36.89,5.36c4.92.72,6.89,6.76,3.33,10.23l-31.1,30.31Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

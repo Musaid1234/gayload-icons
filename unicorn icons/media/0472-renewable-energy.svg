@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="line">
+    <line x1="325" y1="355.288" x2="75" y2="355.288" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="windmill">
+    <g>
+      <line x1="247.929" y1="329.99" x2="277.898" y2="329.99" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="274.44 193.3 278.54 355.29 247.29 355.29 251.44 191.29" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <path d="M270.091,49.494l8.745,80.855c.558,5.131-.193,10.322-2.175,15.089l-8.61,20.666c-2.768-1.442-6.125-1.722-9.248-.47-.234.094-.465.197-.686.298l-7.878-20.955c-1.824-4.832-2.393-10.043-1.663-15.157l11.55-80.5c.834-5.846,9.324-5.69,9.965.174Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M367.743,246.968l-73.876-33.982c-4.699-2.156-8.765-5.466-11.834-9.612l-13.329-18.002c3.034-1.849,4.938-5.021,5.243-8.436l22.035,3.988c5.083.925,9.843,3.116,13.862,6.366l63.155,51.217c4.59,3.718.107,10.936-5.258,8.461Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M256.658,185.083l-14.191,17.307c-3.277,3.995-7.508,7.097-12.304,9.015l-75.471,30.286c-5.476,2.204-9.601-5.221-4.83-8.706l65.615-48.039c4.174-3.045,9.045-4.994,14.166-5.663l22.19-2.887c.057,1.217.313,2.442.79,3.64.849,2.123,2.285,3.849,4.035,5.047Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <circle cx="262.914" cy="175.927" r="11.083" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="solar_panel" data-name="solar panel">
+    <g>
+      <line x1="112.61" y1="316.925" x2="106.485" y2="355.288" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="133.678" y1="355.288" x2="127.554" y2="316.925" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <path d="M175.32,233.41c2.49.74,4.52,2.68,5.33,5.26l20.97,67.25c1.67,5.37-2.34,10.82-7.96,10.82H46.51c-5.63,0-9.64-5.45-7.96-10.82l20.97-67.25c1.03-3.33,4.11-5.59,7.59-5.59h82.64" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="90.989" y1="316.737" x2="99.928" y2="233.08" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="140.236" y1="233.08" x2="149.175" y2="316.737" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="52.565" y1="260.966" x2="187.598" y2="260.966" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="44.372" y1="288.851" x2="195.839" y2="288.851" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="sun">
+    <circle cx="110.61" cy="105.074" r="29.503" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="110.61" y1="45.306" x2="110.61" y2="59.044" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="110.61" y1="151.105" x2="110.61" y2="164.843" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="170.378" y1="105.074" x2="156.64" y2="105.074" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="64.58" y1="105.074" x2="50.842" y2="105.074" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="152.873" y1="62.812" x2="143.158" y2="72.526" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="78.062" y1="137.623" x2="68.348" y2="147.337" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="152.873" y1="147.337" x2="143.158" y2="137.623" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="78.062" y1="72.526" x2="68.348" y2="62.812" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

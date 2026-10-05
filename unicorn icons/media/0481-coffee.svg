@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="cup" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M247.096,355h-94.192c-11.001,0-20.174-8.413-21.125-19.372l-19.524-225.079h175.49l-19.524,225.079c-.951,10.959-10.124,19.372-21.125,19.372Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="172.39" y1="268.87" x2="126.84" y2="268.87" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="273.16" y1="268.87" x2="227.61" y2="268.87" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="279.52" y1="186.08" x2="231.05" y2="186.08" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="168.95" y1="186.08" x2="119.42" y2="186.08" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="200" cy="226.252" r="50.775" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M247.096,355h-94.192c-11.001,0-20.174-8.413-21.125-19.372l-19.524-225.079h175.49l-19.524,225.079c-.951,10.959-10.124,19.372-21.125,19.372Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <rect x="106.055" y="83.076" width="187.89" height="27.474" rx="9.449" ry="9.449" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M272.741,83.076H127.259l6.282-22.559c2.554-9.171,10.907-15.516,20.427-15.516h92.063c9.52,0,17.874,6.345,20.427,15.516l6.282,22.559Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

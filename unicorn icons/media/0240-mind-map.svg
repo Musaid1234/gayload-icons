@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mind_map" data-name="mind map" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="163.063" y1="73.628" x2="186.043" y2="138.934" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="155.496" cy="52.122" r="22.798" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="71.032" y1="199.692" x2="145.425" y2="197.589" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="53.748" cy="200.181" r="17.291" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="171.604" y1="314.953" x2="189.362" y2="253.615" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="163.7" cy="342.254" r="28.422" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="309.059" y1="268.201" x2="254.822" y2="230.108" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="330.785" cy="283.461" r="26.549" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="298.847" y1="125.581" x2="253.725" y2="159.771" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="327.54" cy="103.84" r="36" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <ellipse cx="205.608" cy="195.737" rx="60.113" ry="60" transform="translate(-39.586 338.802) rotate(-73.854)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

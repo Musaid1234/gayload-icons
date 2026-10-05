@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="gift" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M75.901,176.258h248.197v161.954c0,6.506-5.282,11.788-11.788,11.788H87.689c-6.506,0-11.788-5.282-11.788-11.788v-161.954h0Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="60.682" y="122.444" width="278.637" height="53.814" rx="13.752" ry="13.752" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="200" y1="122.444" x2="200" y2="350" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M193.185,122.444l-34.894-63.627c-5.597-10.206-19.57-11.882-27.422-3.29l-17.797,19.475c-8.021,8.777-4.77,22.868,6.287,27.243l73.826,20.199Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M206.815,122.444l34.894-63.627c5.597-10.206,19.57-11.882,27.422-3.29l17.797,19.475c8.021,8.777,4.77,22.868-6.287,27.243l-73.826,20.199Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

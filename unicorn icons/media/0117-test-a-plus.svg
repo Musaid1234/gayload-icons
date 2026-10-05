@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="paper">
+    <g>
+      <path d="M308.87,290.44v49.56c0,5.52-4.48,10-10,10h-49.55" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M211.21,350h-110.08c-5.52,0-10-4.48-10-10V60c0-5.52,4.48-10,10-10h145.02l62.72,62.72v127.61" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M308.87,112.717h-52.817c-5.468,0-9.9-4.432-9.9-9.9v-52.817l62.717,62.717Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="paper2">
+    <g>
+      <g>
+        <path d="M123.146,143.364v-40.712c0-10.037,8.136-18.173,18.173-18.173h.476c10.037,0,18.173,8.136,18.173,18.173v40.712" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="123.146" y1="113.921" x2="159.968" y2="113.921" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g>
+        <line x1="190.477" y1="84.479" x2="190.477" y2="109.566" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="203.021" y1="97.023" x2="177.933" y2="97.023" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+    </g>
+    <g>
+      <line x1="176.364" y1="175.883" x2="281.353" y2="175.883" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="176.364" y1="200.015" x2="211.28" y2="200.015" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <line x1="176.364" y1="233.261" x2="281.353" y2="233.261" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="176.364" y1="257.393" x2="211.28" y2="257.393" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <line x1="176.364" y1="290.639" x2="253.145" y2="290.639" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="176.364" y1="314.771" x2="211.28" y2="314.771" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="tick3">
+    <polyline points="150.963 178.078 129.221 199.82 117.35 187.949" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="tick2">
+    <polyline points="150.963 235.456 129.221 257.198 117.35 245.327" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="tick1">
+    <polyline points="150.963 292.834 129.221 314.576 117.35 302.705" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="pencil">
+    <g>
+      <path d="M245.875,353.443l-38.767,11,11-38.767,79.819-79.819c7.668-7.668,20.1-7.668,27.767,0h0c7.668,7.668,7.668,20.1,0,27.767l-79.819,79.819Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="290.426" y1="253.358" x2="318.194" y2="281.125" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="218.108" y1="325.676" x2="245.875" y2="353.443" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="304.31" y1="267.241" x2="231.992" y2="339.56" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="211.524" y1="348.878" x2="222.673" y2="360.027" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

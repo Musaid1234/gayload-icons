@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="bulb" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="196.131" y1="68.822" x2="196.131" y2="44.561" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="325.604" y1="198.296" x2="349.865" y2="198.296" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="66.656" y1="198.296" x2="42.396" y2="198.296" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="104.578" y1="289.848" x2="87.423" y2="307.003" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="287.682" y1="289.848" x2="304.837" y2="307.003" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="287.682" y1="106.744" x2="304.837" y2="89.589" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="104.579" y1="106.744" x2="87.424" y2="89.589" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="196.13" y1="210.296" x2="196.13" y2="317.465" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <polyline points="175.217 199.778 196.13 210.296 217.043 199.778" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="167.717" y1="336.952" x2="224.543" y2="336.952" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="175.217" y1="355.439" x2="217.043" y2="355.439" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M287.13,194.126c0-50.69-41.445-91.699-92.297-90.991-50.105.698-90.521,42.427-89.69,92.53.556,33.531,19.249,62.648,46.694,77.969,4.429,2.473,7.12,7.202,7.12,12.275v17.409c0,7.814,6.334,14.148,14.148,14.148h46.052c7.814,0,14.148-6.334,14.148-14.148v-17.407c0-5.065,2.677-9.797,7.1-12.265,27.874-15.552,46.726-45.333,46.726-79.519Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

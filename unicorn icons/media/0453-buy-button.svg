@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="text">
+    <g>
+      <path d="M109.034,188.565h26.828c9.869,0,17.87-8.001,17.87-17.87h0c0-9.869-8.001-17.87-17.87-17.87h-21.544c-2.918,0-5.283,2.365-5.283,5.283v30.456Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M114.317,224.305h21.544c9.869,0,17.87-8.001,17.87-17.87h0c0-9.869-8.001-17.87-17.87-17.87h-26.828s0,30.456,0,30.456c0,2.918,2.365,5.283,5.283,5.283Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <path d="M179.447,152.826v55.802c0,8.658,7.019,15.677,15.677,15.677h13.332c8.658,0,15.677-7.019,15.677-15.677v-55.802" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <g>
+      <polyline points="290.966 153.106 269.197 193.64 247.428 153.106" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="269.197" y1="193.64" x2="269.197" y2="224.585" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="button">
+    <path d="M254.46,270.74H73.24c-12.84,0-23.24-10.41-23.24-23.24v-117.87c0-12.83,10.4-23.24,23.24-23.24h253.52c12.84,0,23.24,10.41,23.24,23.24v117.87c0,12.83-10.4,23.24-23.24,23.24h-26.13" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="cursor">
+    <path d="M324.57,300.9l-10.55,10.55c-1.26,1.26-3.3,1.26-4.56,0l-23-23c-1.26-1.26-3.31-1.26-4.57,0l-11.39,11.39c-1.65,1.66-4.46,1.06-5.3-1.12l-10.74-27.98-15.7-40.93c-1-2.61,1.56-5.18,4.17-4.17l68.91,26.44c2.18.84,2.78,3.65,1.12,5.3l-11.39,11.39c-.55.55-.87,1.25-.94,1.97-.08.93.23,1.89.94,2.6l23,22.99c1.26,1.26,1.26,3.31,0,4.57Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

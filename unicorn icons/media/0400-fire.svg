@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="fire" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="153.82" y1="288.75" x2="97.87" y2="321.05" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="185.87" y1="298.24" x2="116.77" y2="345.27" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <polyline points="284.208 345.268 214.572 296.997 242.722 285.448 303.7 320.862" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M187.686,296.997c-14.651-4.171-32.553-19.74-27.172-51.314,3.114-18.27,11.934-41.496,29.127-69.867,0,0,48.293,43.58,47.055,86.57-.997,34.614-34.99,38.603-49.01,34.611Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M192.417,50s-90.262,34.124-90.262,149.049c0,58.724,44.279,99.471,90.262,99.471s101.048-35.638,96.696-106.599c-2.271-37.019-30.276-95.876-30.276-95.876,0,0-32.826,24.491-32.826,64.806,0,0-55.732-37.62-33.593-110.851Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="294.413" cy="333.377" r="15.595" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="105.587" cy="334.405" r="15.595" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

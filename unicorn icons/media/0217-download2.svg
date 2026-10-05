@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="box" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g>
+    <path d="M260.657,186.589l-57.122,57.122c-1.953,1.953-5.118,1.953-7.071,0l-57.122-57.122" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="200" y1="244.761" x2="200" y2="40" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <path d="M146.341,127.48h-56.545c-8.284,0-15,6.716-15,15v202.52c0,8.284,6.716,15,15,15h220.407c8.284,0,15-6.716,15-15v-202.52c0-8.284-6.716-15-15-15h-56.545" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="240"
+   height="240"
+   style="width:100%;height:100%;transform:translate3d(0,0,0);content-visibility:visible"
+   viewBox="0 0 240 240"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="mobile-menu.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.3333333"
+     inkscape:cx="120"
+     inkscape:cy="120"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="a">
+      <path
+         d="M0 0h240v240H0z"
+         id="path1" />
+    </clipPath>
+    <clipPath
+       id="b">
+      <path
+         d="M0 0h240v240H0z"
+         id="path2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#a)"
+     id="g6"
+     style="fill:#ffffff">
+    <g
+       clip-path="url(#b)"
+       style="display:block;fill:#ffffff"
+       id="g5">
+      <path
+         d="M90 0a7.5 7.5 0 0 0-7.5-7.5h-165a7.5 7.5 0 0 0 0 15h165A7.5 7.5 0 0 0 90 0"
+         class="primary"
+         style="display:block;fill:#ffffff"
+         transform="translate(120 120)"
+         id="path3" />
+      <path
+         d="M90 0a7.5 7.5 0 0 0-7.5-7.5h-165a7.5 7.5 0 0 0 0 15h165A7.5 7.5 0 0 0 90 0"
+         class="primary"
+         style="display:block;fill:#ffffff"
+         transform="translate(120 57.5)"
+         id="path4" />
+      <path
+         d="M90 0a7.5 7.5 0 0 0-7.5-7.5h-165a7.5 7.5 0 0 0 0 15h165A7.5 7.5 0 0 0 90 0"
+         class="primary"
+         style="display:block;fill:#ffffff"
+         transform="translate(120 182.5)"
+         id="path5" />
+    </g>
+  </g>
+</svg>

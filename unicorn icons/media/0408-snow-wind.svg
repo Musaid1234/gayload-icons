@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="wind" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M265.472,123.617c0-24.721,20.041-44.762,44.762-44.762s44.762,20.041,44.762,44.762-16.96,47.231-44.762,47.231H44.996" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="159.533" cy="103.546" r="15.871" fill="#4f46e5" stroke-width="0"/>
+  <circle cx="300.279" cy="320.289" r="9.679" fill="#4f46e5" stroke-width="0"/>
+  <circle cx="345.649" cy="225.189" r="14.544" fill="#4f46e5" stroke-width="0"/>
+  <path d="M196.315,279.118c0,24.721,20.041,44.762,44.762,44.762s44.762-20.041,44.762-44.762-17.121-47.231-44.762-47.231H71.973" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

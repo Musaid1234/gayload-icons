@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pan" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="249.62" y1="217.128" x2="258.114" y2="225.621" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="243.539" y1="116.789" x2="247.92" y2="121.169" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="322.546" y1="174.578" x2="314.053" y2="183.072" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="193.241" cy="200.249" r="9.01" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="288.104" cy="153.104" r="9.01" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M335.278,229.328c-8.048,8.048-22.527,6.619-22.527,6.619,0,0-1.429-14.478,6.619-22.527,8.048-8.048,22.527-6.619,22.527-6.619,0,0,1.429,14.478-6.619,22.527Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M311.815,102.567c-6.506,6.506-18.211,5.351-18.211,5.351,0,0-1.156-11.704,5.351-18.211,6.506-6.506,18.211-5.351,18.211-5.351,0,0,1.156,11.704-5.351,18.211Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M235.645,168.012c4.363,8.101-.105,18.98-.105,18.98,0,0-11.543-2.255-15.906-10.356s.105-18.98.105-18.98c0,0,11.543,2.255,15.906,10.356Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <path d="M52.807,229.638h111.5v26.297H52.807c-7.257,0-13.149-5.892-13.149-13.149h0c0-7.257,5.892-13.149,13.149-13.149Z" transform="translate(29.345 -10.333) rotate(6.773)" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M161.272,248.43h195.945v33.063c0,14.203-11.531,25.734-25.734,25.734h-144.477c-14.203,0-25.734-11.531-25.734-25.734v-33.063h0Z" transform="translate(34.575 -28.635) rotate(6.773)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="fries9">
+    <path d="M139.15,102.46l-2.26-35.35c-.46-7.22,5.08-13.43,12.31-13.8l11.23-.56c7.23-.37,13.37,5.26,13.63,12.49l.8,21.68" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="fries8">
+    <path d="M103.06,150.91l-9.8-46.99c-1.48-7.09,3.13-14.02,10.24-15.4l11.03-2.15c7.11-1.38,13.98,3.32,15.27,10.44l1.32,7.29" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="fries7">
+    <path d="M264.38,97.59l1.17-9.22c.91-7.18,7.51-12.24,14.69-11.23l11.13,1.56c7.17,1,12.14,7.68,11.04,14.84l-8.79,57.05" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="fries6">
+    <path d="M187.8,86.15l-.57.03-.4-29.3c-.1-7.24,5.74-13.16,12.99-13.16h11.24c7.24,0,13.09,5.92,12.99,13.16l-.44,32.08-.31-.02" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="fries5">
+    <path d="M224.3,89.02l-.25-18.2c-.1-7.24,5.75-13.16,12.99-13.16h11.24c7.25,0,13.09,5.92,12.99,13.16l-.36,26.5" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="fries4">
+    <path d="M171.09,186.54l-2.31-15.32v-.02l-4.52-70.69c-.42-6.65,4.23-12.42,10.6-13.59.56-.11,1.13-.18,1.71-.21l10.66-.53.57-.03c7.23-.37,13.37,5.25,13.63,12.49l3.01,81.96v.02l-.37,5.92" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="fries3">
+    <path d="M128.91,150.59l-5.75-32.15c-1.1-6.18,2.36-12.11,7.96-14.34.86-.35,1.76-.6,2.71-.76l5.32-.88,5.78-.96c7.15-1.17,13.87,3.72,14.96,10.88l8.89,58.82v.02l2.31,15.32" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="fries2">
+    <path d="M204.66,186.54l-.22-5.92v-.02l4.92-79.51c.44-7.23,6.71-12.69,13.94-12.15l.31.02.69.06,10.21.77c6.48.48,11.47,5.65,11.96,11.91-1.7,2.05-2.8,4.64-2.98,7.51l-4.69,75.79" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="fries1">
+    <path d="M238.8,185l4.69-75.79c.18-2.87,1.28-5.46,2.98-7.51,2.6-3.11,6.61-4.97,10.96-4.64l3.48.26,3.47.27,4.26.32c7.22.54,12.6,6.89,11.96,14.1l-3.44,38.58" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="packet">
+    <path d="M310.21,168.85l-16.77,164.82c-1.45,14.23-13.43,25.05-27.73,25.05h-131.42c-14.3,0-26.28-10.82-27.73-25.05l-16.77-164.82c-.88-8.67,5.06-16.32,13.27-17.94,1.04-.21,31.27-.32,31.27-.32,8.3,0,15.32,6.13,16.44,14.35l.98,7.24c1.11,8.23,8.14,14.36,16.43,14.36h63.64c2.48,0,4.85-.55,6.98-1.54,4.99-2.32,8.67-7.05,9.45-12.82l.98-7.24c1.12-8.22,8.14-14.35,16.44-14.35h28.03c9.83,0,17.5,8.49,16.51,18.26Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <ellipse cx="198.113" cy="271.223" rx="66.277" ry="36.729" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mining" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <circle cx="214.581" cy="147.758" r="12.345" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="52.663" cy="233.806" r="12.761" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="65.42" y1="326.18" x2="54.74" y2="246.39" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="51.36" y1="221.12" x2="40.85" y2="142.6" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M65.423,326.176h0c7.824,0,14.176,6.352,14.176,14.176v7.772h-28.352v-7.772c0-7.824,6.352-14.176,14.176-14.176Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="334.48" y1="161.397" x2="334.48" y2="292.167" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M334.48,292.167h0c7.824,0,14.176,6.352,14.176,14.176v41.781h-28.352v-41.781c0-7.824,6.352-14.176,14.176-14.176Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="360" y1="348.124" x2="40" y2="348.124" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <polyline points="262.117 342.585 181.664 261.673 237.347 206.455 198.79 166.835" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <polyline points="167.113 342.198 247.502 261.677 191.814 206.455 230.37 166.835" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <g>
+      <line x1="166.043" y1="348.124" x2="202.235" y2="147.765" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="263.118" y1="348.124" x2="226.926" y2="147.765" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <line x1="202.31" y1="146.36" x2="80.83" y2="132.54" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M85.32,105.98l264,30.03c4.53.51,7.78,4.61,7.27,9.14l-1.18,10.32c-.51,4.53-4.6,7.78-9.13,7.27l-119.43-13.59" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M62.33,49.508l20.232,4.473c6.244,1.38,10.308,7.414,9.241,13.719l-18.644,110.181c-1.823,10.774-16.567,12.604-20.923,2.582-11.597-26.683-22.405-70.599-3.821-123.227,2.02-5.719,7.992-9.038,13.915-7.729Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

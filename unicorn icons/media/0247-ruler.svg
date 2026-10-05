@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ruler" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="267.589" y1="70.029" x2="288.491" y2="90.93" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="242.894" y1="94.724" x2="276.966" y2="128.796" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="218.199" y1="119.419" x2="239.101" y2="140.32" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="193.504" y1="144.114" x2="214.405" y2="165.015" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="168.809" y1="168.809" x2="202.881" y2="202.881" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="144.114" y1="193.504" x2="165.015" y2="214.405" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="119.419" y1="218.199" x2="140.32" y2="239.101" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="94.724" y1="242.894" x2="128.796" y2="276.966" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="70.029" y1="267.589" x2="90.93" y2="288.491" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="155.889" y="25.379" width="88.221" height="349.241" rx="11.266" ry="11.266" transform="translate(200 -82.843) rotate(45)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

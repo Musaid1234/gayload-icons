@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="face_id" data-name="face id" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="134.326" y1="131.974" x2="134.326" y2="162.092" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="265.674" y1="131.974" x2="265.674" y2="162.092" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M205,131.974v65.133c0,4.872-3.437,9.068-8.214,10.027l-13.996,2.809" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M247.339,254.82c-10.889,8.079-27.253,13.206-45.524,13.206-20.424,0-38.449-6.418-49.154-16.18" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M50,120.347v-61.521c0-4.875,3.952-8.826,8.826-8.826h59.36" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M281.814,50h59.36c4.875,0,8.826,3.952,8.826,8.826v61.521" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M118.186,350h-59.36c-4.875,0-8.826-3.952-8.826-8.826v-57.208" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M350,283.966v57.208c0,4.875-3.952,8.826-8.826,8.826h-59.36" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

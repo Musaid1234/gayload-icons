@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="alarm_clock" data-name="alarm clock" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="106.622" y1="310.329" x2="76.6" y2="349" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="293.378" y1="310.329" x2="323.4" y2="349" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="200" cy="209.032" r="136.181" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="200" y1="209.032" x2="252.347" y2="183.219" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="200" y1="118.913" x2="200" y2="209.032" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="200" y1="72.851" x2="200" y2="49.947" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="185.323" y1="49" x2="214.677" y2="49" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <path d="M336.692,121.017c-15.659-24.314-37.753-44.458-64.449-57.674" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M336.692,121.017c-15.659-24.314-37.753-44.458-64.449-57.674" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M272.29,63.385c7.906-8.829,19.393-14.385,32.177-14.385,23.848,0,43.18,19.332,43.18,43.18,0,11.063-4.161,21.155-11.003,28.795" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g>
+    <path d="M63.308,121.017c15.659-24.314,37.753-44.458,64.449-57.674" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M63.308,121.017c15.659-24.314,37.753-44.458,64.449-57.674" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M127.71,63.385c-7.906-8.829-19.393-14.385-32.177-14.385-23.848,0-43.18,19.332-43.18,43.18,0,11.063,4.161,21.155,11.003,28.795" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

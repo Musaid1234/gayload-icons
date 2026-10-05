@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="tower" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M298.075,105.356s26.534,30.255,74.046,38.88" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M329.466,166.194s9.708,19.826,45.708,24" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M101.925,105.356s-26.534,30.255-74.046,38.88" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M70.534,166.194s-9.708,19.826-45.708,24" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <line x1="119.508" y1="349.697" x2="147.972" y2="349.697" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="252.028" y1="349.697" x2="280.492" y2="349.697" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <g>
+      <polyline points="160.397 185.077 70.534 147.312 329.466 147.312 239.603 185.077" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="70.534" y1="147.312" x2="70.534" y2="166.194" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="329.466" y1="147.312" x2="329.466" y2="166.194" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <polyline points="172.058 117.356 101.925 90.711 298.075 90.711 227.942 117.356" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="101.925" y1="90.711" x2="101.925" y2="104.034" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="298.075" y1="90.711" x2="298.075" y2="104.034" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <polyline points="267.91 341.784 152.976 226.196 232.942 147.312 177.282 90.711" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <polyline points="132.19 341.231 247.032 226.201 167.058 147.312 222.648 90.711" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <polyline points="130.499 349.697 184.485 50.835 215.515 50.835 269.501 349.697" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="152.972" y1="226.196" x2="247.028" y2="226.201" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="222.648" y1="90.711" x2="184.485" y2="50.835" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="215.515" y1="50.835" x2="177.282" y2="90.711" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

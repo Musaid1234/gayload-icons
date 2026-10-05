@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="box" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M57.2,86.551l57.832-34.98c4.393-2.248,9.252-3.42,14.181-3.42h141.603c4.911,0,9.753,1.163,14.133,3.395l57.851,35.005" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <polyline points="250.216 237.172 200 287.388 149.784 237.172" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="200" y1="287.388" x2="200" y2="145.787" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <rect x="50" y="85.787" width="300" height="261.6" rx="12" ry="12" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

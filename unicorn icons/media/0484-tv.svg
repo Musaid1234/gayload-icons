@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="tv" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g>
+    <line x1="238.576" y1="59.996" x2="211.239" y2="95.614" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="188.761" y1="95.614" x2="161.424" y2="59.996" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <path d="M181.538,110.26c0-10.196,8.266-18.462,18.462-18.462s18.462,8.266,18.462,18.462" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="45" y="110.26" width="310" height="211.397" rx="17.854" ry="17.854" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="67.32" y="134.233" width="213.096" height="163.45" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="317.249" cy="162.408" r="15.982" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="303.425" y1="263.262" x2="331.073" y2="263.262" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="303.425" y1="285.857" x2="331.073" y2="285.857" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M94.784,340.004h0c-6.163,0-11.16-4.996-11.16-11.16v-7.187h22.32v7.187c0,6.163-4.996,11.16-11.16,11.16Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M305.216,340.004h0c-6.163,0-11.16-4.996-11.16-11.16v-7.187h22.32v7.187c0,6.163-4.996,11.16-11.16,11.16Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="67.32" y="134.233" width="213.096" height="163.45" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

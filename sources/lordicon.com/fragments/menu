@@ -1,0 +1,717 @@
+
+
+
+
+
+
+
+
+
+
+<div id="menu-resources-popover" class="popover popover--resources" inert>
+    <div class="popover-resources__columns">
+        <div class="popover-resources__column">
+            <strong class="popover-resources__label">Learn</strong>
+            <ul class="popover-resources__list">
+                
+                    <li>
+    <a class="menu-link-small" href="/getting-started">
+        
+        <span>Getting started</span>
+    </a>
+</li>
+                
+                    <li>
+    <a class="menu-link-small" href="/free-pro">
+        
+        <span>Licensing: Free vs PRO</span>
+    </a>
+</li>
+                
+                    <li>
+    <a class="menu-link-small" href="/blog">
+        
+        <span>Blog</span>
+    </a>
+</li>
+                
+            </ul>
+        </div>
+
+        <div class="popover-resources__column popover-resources__column--tiles">
+            <strong class="popover-resources__label">Use Cases</strong>
+            <div class="popover-resources__tiles">
+                
+                    <a class="popover-resources__tile" href="/website">
+                        <span class="popover-resources__tile-title">Websites</span>
+                        <span class="popover-resources__tile-media">
+                            
+                                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/vo8io-nyxgFAhPlAvxIBt.png" />
+                            
+                        </span>
+                    </a>
+                
+                    <a class="popover-resources__tile" href="/mobile">
+                        <span class="popover-resources__tile-title">Mobile Apps</span>
+                        <span class="popover-resources__tile-media">
+                            
+                                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/4zY2ijW11KbMdNxVqjo3c.png" />
+                            
+                        </span>
+                    </a>
+                
+                    <a class="popover-resources__tile" href="/content">
+                        <span class="popover-resources__tile-title">Content</span>
+                        <span class="popover-resources__tile-media">
+                            
+                                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/OXnOBEOUU4LU8_JjNY9ld.png" />
+                            
+                        </span>
+                    </a>
+                
+                    <a class="popover-resources__tile" href="/presentation">
+                        <span class="popover-resources__tile-title">Presentations</span>
+                        <span class="popover-resources__tile-media">
+                            
+                                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/eiD_Z0slN4Y7qZeNBLsTT.png" />
+                            
+                        </span>
+                    </a>
+                
+            </div>
+        </div>
+
+        <div class="popover-resources__column">
+            <strong class="popover-resources__label">Integrations</strong>
+            <ul class="popover-resources__list">
+                
+                    <li>
+    <a class="menu-link-small" href="/mcp">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_09/0xhBVl-bVyF56ZXfTfsh8.png" />
+            </span>
+        
+        <span>Lordicon MCP</span>
+    </a>
+</li>
+                
+                    <li>
+    <a class="menu-link-small" href="/api-developers">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/dL4a6-i3Z9zAhhznvdJJt.png" />
+            </span>
+        
+        <span>API Integration</span>
+    </a>
+</li>
+                
+                    <li>
+    <a class="menu-link-small" href="https://www.figma.com/community/plugin/1509464078896253966/lordicon">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/M6cm26abijoj0alW07RkT.png" />
+            </span>
+        
+        <span>Figma Plugin</span>
+    </a>
+</li>
+                
+                    <li>
+    <a class="menu-link-small" href="https://wordpress.org/plugins/lordicon/">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/avMg2Sovyy94xowmc-O2p.png" />
+            </span>
+        
+        <span>WordPress Plugin</span>
+    </a>
+</li>
+                
+                    <li>
+    <a class="menu-link-small" href="https://workspace.google.com/marketplace/app/lordicon/896793528115?flow_type=2&amp;hl=pl">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/9JMw7-I9cAQmrKpW4B7PG.png" />
+            </span>
+        
+        <span>Google Docs Add-on</span>
+    </a>
+</li>
+                
+                    <li>
+    <a class="menu-link-small" href="https://workspace.google.com/marketplace/app/lordicon/896793528115?flow_type=2&amp;hl=pl">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/k2O_vYqJfxboGGlmQCTC0.png" />
+            </span>
+        
+        <span>Google Slides Add-on</span>
+    </a>
+</li>
+                
+            </ul>
+        </div>
+    </div>
+
+    <div class="popover-resources__footer">
+        
+            
+    <a class="menu-link-small" href="/docs/support">
+        
+        <span>Support</span>
+    </a>
+
+        
+            
+    <a class="menu-link-small" href="/custom">
+        
+        <span>Custom work</span>
+    </a>
+
+        
+            
+    <a class="menu-link-small" href="/contact">
+        
+        <span>Contact us</span>
+    </a>
+
+        
+    </div>
+</div>
+
+<div id="menu-account-popover" class="popover popover--account popover-account" inert>
+    
+</div>
+
+<div id="menu-mobile" class="mobile-menu" inert>
+    <div class="mobile-menu__header">
+        <a href="#" class="mobile-menu__close"> 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+                
+    
+        
+        
+    
+
+    <lord-icon
+        src="https://media.lordicon.com/assets/icons/main/mobile-menu-close.json"
+        
+            trigger="hover" 
+        
+        
+            loading="interaction" 
+        
+        
+        
+        class="icon current-color"
+    >
+        
+            <img loading="lazy" alt="" src="https://media.lordicon.com/assets/icons/main/mobile-menu-close.svg" class="icon__preview"/>
+        
+    </lord-icon>
+ </a>
+        <a href="/" class="mobile-menu__logo">
+            <lord-icon loading="interaction" trigger="hover" src="https://media.lordicon.com/assets/icons/main/lordicon.json" target="a">
+                <img alt="Lordicon" src="https://media.lordicon.com/assets/icons/main/lordicon.svg" />
+            </lord-icon>
+        </a>
+    </div>
+
+    <ul class="mobile-menu__list">
+        <li>
+    <a class="menu-link-mobile" href="/icons">
+        <span>Icons</span>
+        
+    </a>
+    
+</li>
+        <li>
+    <a class="menu-link-mobile" href="/docs">
+        <span>Docs</span>
+        
+    </a>
+    
+</li>
+        <li>
+            
+    <a class="menu-link-mobile" href="#">
+        <span>Resources</span>
+        
+            <lord-icon loading="interaction" src="https://media.lordicon.com/assets/icons/menu/arrow-down.json" trigger="click" target="a" class="current-color">
+                <img alt="" src="https://media.lordicon.com/assets/icons/menu/arrow-down.svg" />
+            </lord-icon>
+        
+    </a>
+    
+        
+                <div class="mobile-menu__submenu">
+                    <div class="popover-resources__column">
+                        <strong class="popover-resources__label">Learn</strong>
+                        <ul class="popover-resources__list">
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="/getting-started">
+        
+        <span>Getting started</span>
+    </a>
+</li>
+                                
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="/free-pro">
+        
+        <span>Licensing: Free vs PRO</span>
+    </a>
+</li>
+                                
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="/blog">
+        
+        <span>Blog</span>
+    </a>
+</li>
+                                
+                            
+                        </ul>
+                    </div>
+
+                    <div class="popover-resources__column">
+                        <strong class="popover-resources__label">Use Cases</strong>
+                        <div class="popover-resources__tiles">
+                            
+                                
+                                    <a class="popover-resources__tile popover-resources__tile--wide" href="/website">
+                                        <span class="popover-resources__tile-title">Websites</span>
+                                        <span class="popover-resources__tile-media">
+                                            
+                                                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/vo8io-nyxgFAhPlAvxIBt.png" />
+                                            
+                                        </span>
+                                    </a>
+                                
+                            
+                                
+                                    <a class="popover-resources__tile popover-resources__tile--wide" href="/mobile">
+                                        <span class="popover-resources__tile-title">Mobile Apps</span>
+                                        <span class="popover-resources__tile-media">
+                                            
+                                                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/4zY2ijW11KbMdNxVqjo3c.png" />
+                                            
+                                        </span>
+                                    </a>
+                                
+                            
+                                
+                                    <a class="popover-resources__tile popover-resources__tile--wide" href="/content">
+                                        <span class="popover-resources__tile-title">Content</span>
+                                        <span class="popover-resources__tile-media">
+                                            
+                                                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/OXnOBEOUU4LU8_JjNY9ld.png" />
+                                            
+                                        </span>
+                                    </a>
+                                
+                            
+                                
+                                    <a class="popover-resources__tile popover-resources__tile--wide" href="/presentation">
+                                        <span class="popover-resources__tile-title">Presentations</span>
+                                        <span class="popover-resources__tile-media">
+                                            
+                                                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/eiD_Z0slN4Y7qZeNBLsTT.png" />
+                                            
+                                        </span>
+                                    </a>
+                                
+                            
+                        </div>
+                    </div>
+
+                    <div class="popover-resources__column">
+                        <strong class="popover-resources__label">Integrations</strong>
+                        <ul class="popover-resources__list">
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="/mcp">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_09/0xhBVl-bVyF56ZXfTfsh8.png" />
+            </span>
+        
+        <span>Lordicon MCP</span>
+    </a>
+</li>
+                                
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="/api-developers">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/dL4a6-i3Z9zAhhznvdJJt.png" />
+            </span>
+        
+        <span>API Integration</span>
+    </a>
+</li>
+                                
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="https://www.figma.com/community/plugin/1509464078896253966/lordicon">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/M6cm26abijoj0alW07RkT.png" />
+            </span>
+        
+        <span>Figma Plugin</span>
+    </a>
+</li>
+                                
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="https://wordpress.org/plugins/lordicon/">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/avMg2Sovyy94xowmc-O2p.png" />
+            </span>
+        
+        <span>WordPress Plugin</span>
+    </a>
+</li>
+                                
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="https://workspace.google.com/marketplace/app/lordicon/896793528115?flow_type=2&amp;hl=pl">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/9JMw7-I9cAQmrKpW4B7PG.png" />
+            </span>
+        
+        <span>Google Docs Add-on</span>
+    </a>
+</li>
+                                
+                            
+                                
+                                    <li>
+    <a class="menu-link-small" href="https://workspace.google.com/marketplace/app/lordicon/896793528115?flow_type=2&amp;hl=pl">
+        
+            <span class="menu-link-small__icon">
+                <img alt="" src="https://media.lordicon.com/upload/menus/2026_07/k2O_vYqJfxboGGlmQCTC0.png" />
+            </span>
+        
+        <span>Google Slides Add-on</span>
+    </a>
+</li>
+                                
+                            
+                        </ul>
+                    </div>
+
+                    
+                    
+                        <div class="popover-resources__column">
+                            <strong class="popover-resources__label">More</strong>
+                            <ul class="popover-resources__list">
+                                
+                                    <li>
+    <a class="menu-link-small" href="/docs/support">
+        
+        <span>Support</span>
+    </a>
+</li>
+                                
+                                    <li>
+    <a class="menu-link-small" href="/custom">
+        
+        <span>Custom work</span>
+    </a>
+</li>
+                                
+                                    <li>
+    <a class="menu-link-small" href="/contact">
+        
+        <span>Contact us</span>
+    </a>
+</li>
+                                
+                            </ul>
+                        </div>
+                    
+                </div>
+            
+    
+
+        </li>
+        <li>
+    <a class="menu-link-mobile" href="/pricing">
+        <span>Pricing</span>
+        
+    </a>
+    
+</li>
+    </ul>
+
+    <div class="mobile-menu__social">
+        
+    <a target="_blank" rel="nofollow" class="mobile-menu__social-item" href="https://www.instagram.com/lord_icon">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+                
+    
+        
+        
+    
+
+    <lord-icon
+        src="https://media.lordicon.com/assets/icons/brands/instagram.json"
+        
+            trigger="hover" 
+        
+        
+            loading="interaction" 
+        
+        
+            target="a"
+        
+        
+        class="icon current-color"
+    >
+        
+            <img loading="lazy" alt="" src="https://media.lordicon.com/assets/icons/brands/instagram.svg" class="icon__preview"/>
+        
+    </lord-icon>
+</a>
+
+        
+    <a target="_blank" rel="nofollow" class="mobile-menu__social-item" href="https://www.youtube.com/channel/UC5g5HphGVQKR4ktRWkE3L0Q">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+                
+    
+        
+        
+    
+
+    <lord-icon
+        src="https://media.lordicon.com/assets/icons/brands/youtube.json"
+        
+            trigger="hover" 
+        
+        
+            loading="interaction" 
+        
+        
+            target="a"
+        
+        
+        class="icon current-color"
+    >
+        
+            <img loading="lazy" alt="" src="https://media.lordicon.com/assets/icons/brands/youtube.svg" class="icon__preview"/>
+        
+    </lord-icon>
+</a>
+
+        
+    <a target="_blank" rel="nofollow" class="mobile-menu__social-item" href="https://www.tiktok.com/@get_lordicon">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+                
+    
+        
+        
+    
+
+    <lord-icon
+        src="https://media.lordicon.com/assets/icons/brands/tiktok.json"
+        
+            trigger="hover" 
+        
+        
+            loading="interaction" 
+        
+        
+            target="a"
+        
+        
+        class="icon current-color"
+    >
+        
+            <img loading="lazy" alt="" src="https://media.lordicon.com/assets/icons/brands/tiktok.svg" class="icon__preview"/>
+        
+    </lord-icon>
+</a>
+
+        
+    <a target="_blank" rel="nofollow" class="mobile-menu__social-item" href="https://dribbble.com/wilusz">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+                
+    
+        
+        
+    
+
+    <lord-icon
+        src="https://media.lordicon.com/assets/icons/brands/dribbble.json"
+        
+            trigger="hover" 
+        
+        
+            loading="interaction" 
+        
+        
+            target="a"
+        
+        
+        class="icon current-color"
+    >
+        
+            <img loading="lazy" alt="" src="https://media.lordicon.com/assets/icons/brands/dribbble.svg" class="icon__preview"/>
+        
+    </lord-icon>
+</a>
+
+        
+    <a target="_blank" rel="nofollow" class="mobile-menu__social-item" href="https://discord.com/invite/2SU6AutGxX">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+                
+    
+        
+        
+    
+
+    <lord-icon
+        src="https://media.lordicon.com/assets/icons/brands/discord.json"
+        
+            trigger="hover" 
+        
+        
+            loading="interaction" 
+        
+        
+            target="a"
+        
+        
+        class="icon current-color"
+    >
+        
+            <img loading="lazy" alt="" src="https://media.lordicon.com/assets/icons/brands/discord.svg" class="icon__preview"/>
+        
+    </lord-icon>
+</a>
+
+        
+    <a target="_blank" rel="nofollow" class="mobile-menu__social-item" href="https://x.com/get_lordicon">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+                
+    
+        
+        
+    
+
+    <lord-icon
+        src="https://media.lordicon.com/assets/icons/brands/x.json"
+        
+            trigger="hover" 
+        
+        
+            loading="interaction" 
+        
+        
+            target="a"
+        
+        
+        class="icon current-color"
+    >
+        
+            <img loading="lazy" alt="" src="https://media.lordicon.com/assets/icons/brands/x.svg" class="icon__preview"/>
+        
+    </lord-icon>
+</a>
+
+    </div>
+</div>

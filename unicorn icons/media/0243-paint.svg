@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="brush" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M328.68,121.265c3.88,5.6,7.34,11.48,10.34,17.59,24.12,49.09.59,104.27-53.05,119.99" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M256.41,263.215c-.79.02-6.84-.04-9.04-.19-5.8-.35-11.49-.65-17.13-.75-11.34-.21-19.15,9.01-18.93,20,.18,9.26,8.37,16.73,10.94,20.66,7.38,11.31,1.98,22.95-9.21,29.41-5.85,3.38-18.34,5.9-37.18,3.31-34.53-4.73-69.01-24.53-91.42-50.66-20.81-24.27-33.17-55.12-32.92-88.67.57-77.68,67.79-139.72,151.06-139.47,35.46.1,68.05,11.65,93.72,30.9" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M269.53,216.505c-14.67-4.17-25.41-17.67-25.41-33.67,0-19.33,15.67-35,35-35,2.05,0,4.05.18,6,.52" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M310.39,167.115c2.39,4.73,3.73,10.07,3.73,15.72,0,12.19-6.24,22.93-15.69,29.19" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="204.898" cy="121.089" r="31" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="123.482" cy="153.03" r="26" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="145.755" cy="279.438" r="16" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="109.755" cy="227.354" r="21" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <path d="M291.189,143.693c-5.127-5.189-8.099-14.541-7.992-22.409.281-20.778,12.425-48.753,58.377-50.721,0,0-16.895,13.249-13.12,43.663,2.004,16.148-6.355,29.549-16.375,34.031" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M286.397,142.757l-42.763,186.946s-1.669,10.517,8.307,13.042c10.064,2.547,13.784-7.856,13.784-7.856l49.429-185.642-28.757-6.49" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

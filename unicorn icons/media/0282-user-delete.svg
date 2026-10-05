@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="bin_cover" data-name="bin cover" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path d="M271.71,211.747v5.57h-34.35v111.25H65.63c-11.04,0-20-8.95-20-20v-23.37c0-46.04,37.33-83.36,83.37-83.36h103.26c14.27,0,27.71,3.59,39.45,9.91Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="180.631" cy="106.702" r="65" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M346.3,217.318v113.96c0,14.92-12.09,27.02-27.01,27.02h-54.92c-14.92,0-27.01-12.1-27.01-27.02v-113.96h108.94Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="265.604" y1="251.385" x2="265.604" y2="324.527" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="291.83" y1="251.385" x2="291.83" y2="324.527" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="318.056" y1="251.385" x2="318.056" y2="324.527" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M311.95,210.788v6.53h-40.24v-6.53c0-3.49,1.44-6.64,3.77-8.89,2.23-2.17,5.27-3.5,8.62-3.5h15.46c6.84,0,12.39,5.55,12.39,12.39Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="229.291" y1="217.321" x2="354.37" y2="217.321" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

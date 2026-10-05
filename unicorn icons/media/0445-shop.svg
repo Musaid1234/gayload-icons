@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="building">
+    <g>
+      <path d="M342.47,180.879v138.154c0,5.523-4.477,10-10,10H67.53c-5.523,0-10-4.477-10-10v-138.154" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <rect x="90.125" y="208.731" width="89.043" height="65.948" rx="6.065" ry="6.065" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="158.87" y1="223.569" x2="123.13" y2="259.308" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="125.963" y1="224.906" x2="113.571" y2="237.297" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M218.012,208.731h84.417c3.311,0,6,2.689,6,6v114.301h-96.417v-114.301c0-3.311,2.689-6,6-6Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="260.22" y1="208.731" x2="260.22" y2="329.033" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="top">
+    <g>
+      <path d="M314.286,158.022c0,12.624,10.233,22.857,22.857,22.857s22.857-10.233,22.857-22.857v-10.667h-45.714v10.667" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M85.714,158.022c0,12.624-10.233,22.857-22.857,22.857s-22.857-10.233-22.857-22.857v-10.667h45.714v10.667" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M268.571,158.022c0,12.624-10.233,22.857-22.857,22.857s-22.857-10.233-22.857-22.857v-10.667h45.714v10.667Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M177.143,158.022c0,12.624-10.233,22.857-22.857,22.857s-22.857-10.233-22.857-22.857v-10.667h45.714v10.667Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M314.286,158.022c0,12.624-10.233,22.857-22.857,22.857s-22.857-10.233-22.857-22.857v-10.667h45.714v10.667Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M222.857,158.022c0,12.624-10.233,22.857-22.857,22.857s-22.857-10.233-22.857-22.857v-10.667h45.714v10.667Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M131.429,158.022c0,12.624-10.233,22.857-22.857,22.857s-22.857-10.233-22.857-22.857v-10.667h45.714v10.667Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="247.238 70.018 268.571 147.355 314.286 147.355 279.086 70.018" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="183.543 70.018 177.143 147.355 222.857 147.355 216.457 70.018" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <polyline points="120.914 70.018 85.714 147.355 131.429 147.355 152.762 70.018" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M360,147.355l-51.311-74.809c-1.278-1.597-3.213-2.527-5.258-2.527H96.57c-2.046,0-3.981.93-5.258,2.527l-51.311,74.809" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

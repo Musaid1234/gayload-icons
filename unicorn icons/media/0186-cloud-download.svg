@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="cloud" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g>
+    <polyline points="249.465 292.132 200 341.597 150.535 292.132" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="200" y1="341.597" x2="200" y2="196.122" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <path d="M157.819,263.077h-58.869c-29.791,0-53.95-24.159-53.95-53.95s24.159-53.95,53.95-53.95c5.611,0,11.015.858,16.099,2.439,1.653-43.689,37.582-78.616,81.685-78.616,37.128,0,68.458,24.759,78.42,58.662,5.146-1.343,10.54-2.056,16.11-2.056,35.195,0,63.736,28.53,63.736,63.736s-28.541,63.736-63.736,63.736h-49.083" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

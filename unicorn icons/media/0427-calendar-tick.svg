@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g>
+    <path d="M218.11,314.8H59.1c-10.55,0-19.1-8.55-19.1-19.1V92.51c0-10.54,8.55-19.09,19.1-19.09h232.88c10.55,0,19.1,8.55,19.1,19.09v97.87" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="40" y1="128.389" x2="311.076" y2="128.389" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="102.701" y1="55.894" x2="102.701" y2="90.937" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="248.375" y1="55.894" x2="248.375" y2="90.937" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <circle cx="280" cy="264.106" r="80" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <polyline points="322.256 243.54 265.483 300.313 237.744 272.575" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

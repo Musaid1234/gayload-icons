@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="paper">
+    <line x1="108.576" y1="304.978" x2="108.576" y2="80.543" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="291.533" y1="80.543" x2="291.533" y2="315.348" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M291.424,84.652c0-16.533,13.402-29.935,29.935-29.935s29.935,13.402,29.935,29.935v38.935h-59.761" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M108.576,84.652c0-16.533,13.402-29.935,29.935-29.935h182.848" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M291.533,315.348c0,16.533-13.402,29.935-29.935,29.935s-29.935-13.402-29.935-29.935v-10.37H48.707v10.37c0,16.533,13.402,29.935,29.935,29.935h182.957" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="lines">
+    <g>
+      <line x1="189.388" y1="108.196" x2="226.051" y2="108.196" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="249.412" y1="108.196" x2="259.795" y2="108.196" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <line x1="189.388" y1="136.557" x2="226.051" y2="136.557" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="249.412" y1="136.557" x2="259.795" y2="136.557" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <line x1="189.388" y1="164.917" x2="226.051" y2="164.917" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="249.412" y1="164.917" x2="259.795" y2="164.917" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <line x1="138.428" y1="193.278" x2="217.677" y2="193.278" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="245.897" y1="193.278" x2="259.795" y2="193.278" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <line x1="138.428" y1="221.639" x2="217.677" y2="221.639" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="245.897" y1="221.639" x2="259.795" y2="221.639" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <g>
+      <line x1="138.428" y1="250" x2="217.677" y2="250" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="245.897" y1="250" x2="259.795" y2="250" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="dollar">
+    <g>
+      <path d="M164.264,120.295h0c0-4.87-5.037-8.817-11.251-8.817h-3.334c-6.214,0-11.251,3.948-11.251,8.817v5.199c0,4.87,5.037,8.817,11.251,8.817h3.334c6.214,0,11.251,3.948,11.251,8.817v7.102c0,4.87-5.037,8.817-11.251,8.817h-3.334c-6.214,0-11.251-3.948-11.251-8.817v-2.885" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="151.346" y1="111.478" x2="151.346" y2="101.611" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="151.346" y1="169.041" x2="151.346" y2="159.175" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

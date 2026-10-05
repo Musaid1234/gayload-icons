@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="moon">
+    <path d="M199.9,128.31c-2.81-34.91,16.42-67.75,47.46-82.7-6.96,15.73-9.2,33.73-5.3,51.84,9.8,45.57,54.68,74.56,100.24,64.76,6.69-1.44,13.03-3.63,18.93-6.48-10.56,23.86-32,42.5-59.45,48.4-.99.21-1.98.41-2.97.58" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="cloud">
+    <path d="M248.173,168.37c-4.663,0-9.185.601-13.497,1.723-8.357-28.414-34.615-49.165-65.735-49.165-36.964,0-67.076,29.271-68.46,65.896-4.262-1.331-8.795-2.049-13.495-2.049-24.974,0-45.22,20.246-45.22,45.22s20.246,45.22,45.22,45.22h161.187c29.504,0,53.422-23.918,53.422-53.423s-23.918-53.422-53.422-53.422Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <g>
+      <line x1="243.319" y1="291.289" x2="253.214" y2="318.924" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="103.408" y1="291.289" x2="113.303" y2="318.924" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="173.363" y1="291.289" x2="183.258" y2="318.924" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="150.833" y1="326.625" x2="160.728" y2="354.259" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <line x1="220.789" y1="326.625" x2="230.684" y2="354.259" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

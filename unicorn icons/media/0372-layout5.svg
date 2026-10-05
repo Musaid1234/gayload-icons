@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="150" y1="50" x2="150" y2="350" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <line x1="250" y1="50" x2="250" y2="350" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect x="50" y="50" width="300" height="300" rx="15" ry="15" transform="translate(400 400) rotate(-180)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

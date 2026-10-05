@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="top">
+    <path d="M185.391,67.739v-9.652c0-8.068,6.541-14.609,14.609-14.609h0c8.068,0,14.609,6.541,14.609,14.609v9.652" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="board">
+    <path d="M86.522,67.739h226.957c8.207,0,14.87,6.663,14.87,14.87v148.435H71.652V82.609c0-8.207,6.663-14.87,14.87-14.87Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="a">
+    <path d="M115.879,182.13v-45.271c0-11.16,9.047-20.208,20.208-20.208h.53c11.16,0,20.208,9.047,20.208,20.208v45.271" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="a_line" data-name="a line">
+    <line x1="115.879" y1="149.391" x2="156.824" y2="149.391" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="c">
+    <path d="M289.418,116.891h-25.688c-8.261,0-14.958,6.697-14.958,14.958v35.084c0,8.261,6.697,14.958,14.958,14.958h25.677" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="b">
+    <path d="M182.475,149.391h24.396c8.975,0,16.25-7.275,16.25-16.25h0c0-8.975-7.275-16.25-16.25-16.25h-19.591c-2.653,0-4.804,2.151-4.804,4.804v27.696Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="b-2" data-name="b">
+    <path d="M187.28,181.891h19.591c8.975,0,16.25-7.275,16.25-16.25h0c0-8.975-7.275-16.25-16.25-16.25h-24.396s0,27.696,0,27.696c0,2.653,2.151,4.804,4.804,4.804Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="duster">
+    <rect x="236.783" y="207.696" width="49.957" height="23.348" rx="7.805" ry="7.805" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="frame">
+    <g>
+      <path d="M135.97,257.78l-21.64,85.11c-1.67,6.53-8.31,10.48-14.84,8.82-6.53-1.66-10.48-8.3-8.82-14.84l20.11-79.09h25.19Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M300.51,351.71c-6.53,1.66-13.17-2.29-14.84-8.82l-21.64-85.11h25.19l20.11,79.09c1.66,6.54-2.29,13.18-8.82,14.84Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+    <rect x="50" y="231.043" width="300" height="26.739" rx="13.37" ry="13.37" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

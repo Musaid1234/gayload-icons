@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <g id="Layer_5" data-name="Layer 5">
+    <g>
+      <path d="M293.46,154.88l-16.91,57.55c-1.56,5.32-6.45,8.98-11.99,8.98h-133.69l-31.45-107.08h161.76" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <g>
+        <line x1="202.391" y1="145.697" x2="202.391" y2="190.044" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="248.609" y1="145.697" x2="240.846" y2="190.044" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <line x1="156.174" y1="145.697" x2="163.937" y2="190.044" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <path d="M130.871,221.408l-22.117,46.831c-4.339,9.188,2.363,19.766,12.525,19.766h149.284" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <circle cx="133.869" cy="324.929" r="16.41" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <circle cx="255.187" cy="324.929" r="16.41" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path d="M99.418,114.333l-9.327-31.844c-2.496-8.522-10.313-14.378-19.194-14.378h-30.898" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+  <g id="circle">
+    <path d="M360,108.26c0,27.39-22.21,49.59-49.6,49.59-5.95,0-11.66-1.05-16.94-2.97-17.22-6.26-29.99-21.79-32.28-40.55-.25-1.99-.37-4.01-.37-6.07,0-27.39,22.2-49.6,49.59-49.6s49.6,22.21,49.6,49.6Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <g id="plus">
+    <line x1="310.403" y1="84.661" x2="310.403" y2="131.855" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <line x1="334" y1="108.258" x2="286.806" y2="108.258" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+</svg>

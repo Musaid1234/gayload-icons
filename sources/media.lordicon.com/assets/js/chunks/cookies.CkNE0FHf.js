@@ -1,0 +1,2 @@
+function r(t){return document.cookie.split(";").some(e=>e.trim().startsWith(`${t}=`))}function c(t){const e=document.cookie.split("; ").find(o=>o.startsWith(`${t}=`));if(e)return e.split("=")[1]}function s(t,e,o){let n="";if(o){const i=new Date;i.setTime(i.getTime()+Math.round(o*24*60*60*1e3)),n="; expires="+i.toUTCString()}document.cookie=`${t}=${e}${n}; path=/`}function u(t){s(t,"",-1)}export{u as d,c as g,r as h,s};
+//# sourceMappingURL=cookies.CkNE0FHf.js.map

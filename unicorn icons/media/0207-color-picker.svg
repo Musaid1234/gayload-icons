@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="picker" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <line x1="141.036" y1="182.895" x2="222.812" y2="182.895" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <g>
+    <path d="M225.536,98.395l-105.714,105.714c-8.6,8.6-10.561,21.319-5.897,31.805l-16.193,16.193c-4.367,4.367-4.367,11.448,0,15.815s11.448,4.367,15.815,0l16.535-16.535c10.248,4.016,22.347,1.89,30.628-6.39l105.714-105.714-40.888-40.888Z" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path d="M283.139,122.568l33.155-33.155c11.291-11.291,11.291-29.597,0-40.888h0c-11.291-11.291-29.597-11.291-40.888,0l-33.155,33.155" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <rect x="210.052" y="98.662" width="88.571" height="23.639" rx="10.293" ry="10.293" transform="translate(152.616 -147.485) rotate(45)" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  </g>
+  <path d="M113.677,340.724c0,10.615-8.605,19.22-19.22,19.22s-19.22-8.605-19.22-19.22,19.22-42.224,19.22-42.224c0,0,19.22,31.609,19.22,42.224Z" fill="none" stroke="#4f46e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>
